@@ -8,7 +8,9 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
+
 gem "jekyll", "~> 3.8"
+
 
 # A JavaScript runtime for ruby that helps with running the katex gem above.
 gem "duktape"

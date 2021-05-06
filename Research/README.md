@@ -14,11 +14,13 @@ ecohydrological processes on biogeochemical cycles.
 
 ## [Ecohydrology of Wetlandscapes]{:.heading.flip-title}
 
-## Contaminant Transport of Emerging Contaminants
+## [Emerging Contaminants in Agroecosystems]{:.heading.flip-title} 
 
-## Carbon-Nitrogen Cycling in Reactive Interfaces
+## [Carbon-Nitrogen Cycling in Reactive Interfaces]{:.heading.flip-title} 
 
 ## Landscape Controls on Catchment Salinization
 
 
-[Ecohydrology of Wetlandscapes]: wetlandscape.md
+[Ecohydrology of Wetlandscapes]: wetlandscapes.md
+[Emerging Contaminants in Agroecosystems]: agroecosystems.md
+[Carbon-Nitrogen Cycling in Reactive Interfaces]: reactiveinterfaces.md

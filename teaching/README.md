@@ -9,7 +9,7 @@ permalink: /teaching/
 ---
 
 
-Description HERE 
+Description HERE PLZ
 
 
 
@@ -17,13 +17,12 @@ Description HERE
 
 Below is a collection of content, visualizations, etc. that I've used for lectures I've taught  
 
-### [Contaminant Transport]{:.heading.flip-title}
+### [Contaminant Transport](/teaching/book/intro.html)
 
-### [Flow Through Porous Media]{:.heading.flip-title} 
+### [Flow Through Porous Media](/teaching/book/intro.html)
 
-### [Lectures and Presentations]{:.heading.flip-title} 
+### [Complex Systems](/teaching/book/intro.html)
+
+### [Lectures and Presentations](/teaching/book/intro.html)
 
 
-[Contaminant Transport]: /teaching/book/intro.html
-[Flow Through Porous Media]: /teaching/book/intro.html
-[Lectures and Presentations]: /teaching/book/methods.html

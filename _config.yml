@@ -3,13 +3,13 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-# url:                   https://landscape-ecohydrology.github.io
+url:                   https://landscape-ecohydrology.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-#baseurl:               ''
+baseurl:               ''
 
 
 # General settings
@@ -17,7 +17,7 @@
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en-us
+lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Landscape Ecohydrology
@@ -29,10 +29,10 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Frederick Cheng
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [ecohydrology, biogeochemistry, watershed hydrology]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -45,16 +45,16 @@ author:
   name:                <firstname> <lastname>
   email:               <mail@domain.tld>
   # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             <pHred_cheng>
 
 # Add links to the sidebar.
 menu:
   - title:             Research
     url:               /example/
   - title:             Publications
-    url:               /publications/
+    url:               /Publications/
   - title:             CV
-    url:               /about/
+    url:               /docs/
   - title:             About
     url:               /about/
 
@@ -81,9 +81,9 @@ paginate_path:         /:num/
 
 # Theme
 # ---------------------------------------------------------------------------------------
+# theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9
 
-#theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 
 
 # Customizaton
@@ -162,7 +162,7 @@ defaults:
         type:          WebPage
 
 kramdown:
-  math_engine:         katex
+  math_engine:         mathjax
   math_engine_opts:    {}
   footnote_backlink:   '&#x21a9;&#xfe0e;'
 
@@ -351,7 +351,7 @@ plugins:
 #   yandex:              <verification-id>
 
 # Used for twitter cards
- twitter:
+twitter:
    username:            pHred_cheng
 
 # Used for facebook open graph
@@ -361,7 +361,7 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
- social:
+social:
    name:                <firstname> <lastname>
    links:
      - https://twitter.com/pHred_cheng

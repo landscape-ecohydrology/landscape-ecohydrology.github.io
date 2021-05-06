@@ -14,6 +14,6 @@ YOUTUBE EMBED
 https://www.youtube.com/watch?v=z8Z2EdZgnlQ&t=1s
 
 
-[I'm an inline-style link](/_book/)
+[I'm an inline-style link](/_book/index.html)
 
 

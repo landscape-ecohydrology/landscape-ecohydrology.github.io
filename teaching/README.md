@@ -9,11 +9,21 @@ permalink: /teaching/
 ---
 
 
-YOUTUBE EMBED
+Description HERE 
 
-https://www.youtube.com/watch?v=z8Z2EdZgnlQ&t=1s
 
 
 [I'm an inline-style link](/_book/index.html)
 
+Below is a collection of content, visualizations, etc. that I've used for lectures I've taught  
 
+### [Contaminant Transport]{:.heading.flip-title}
+
+### [Flow Through Porous Media]{:.heading.flip-title} 
+
+### [Lectures and Presentations]{:.heading.flip-title} 
+
+
+[Contaminant Transport]: /_book/intro.html
+[Flow Through Porous Media]: /_book/intro.html
+[Lectures and Presentations]: /_book/methods.html

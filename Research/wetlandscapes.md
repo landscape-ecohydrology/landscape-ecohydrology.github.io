@@ -1,14 +1,14 @@
 ---
-layout: page-fullwidth
+layout: default
 title: Wetlandscape Ecohydrology
 description: >
   Research on wetlandscapes and wetland ecohydrology
 hide_description: true
-sitemap: false
-header:
-   image_fullwidth: "/assets/img/blog/9778d20aa8ba83b3ab678897b80811e5.jpg"
+sitemap: false   
 permalink: /wetlandscapes/
 ---
+
+![](/assets/img/blog/9778d20aa8ba83b3ab678897b80811e5.jpg)
 
 Wetlands are important ecosystems that provide many hydrological, water quality, and ecological benefits. However, we must recognize that wetlands do not operate alone, bXXXX wetlandscapes. 
 

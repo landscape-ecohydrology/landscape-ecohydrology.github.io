@@ -1,10 +1,13 @@
 fig:nice-fig
 tab:nice-tab
-prerequisites
+introduction
 intro
-literature
-methods
+flow-through-porous-media
+complexity-in-environmental-systems
 applications
 example-one
 example-two
-final-words
+lectures-and-presentations
+wetlandscapes-land-use-legacies-and-water-quality-futures
+biogeochemical-hotspots-the-role-of-small-wetlands-in-landscape-nutrient-processing
+understanding-head-potentials-in-aquiferaquitard-systems

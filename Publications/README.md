@@ -5,7 +5,7 @@ description: >
   List of publications
 hide_description: true
 sitemap: false
-permalink: /docs/
+permalink: /Publications/
 ---
 
 If you don't have institutional or personal access to these papers, please request a reprint from fycheng@uwaterloo.ca

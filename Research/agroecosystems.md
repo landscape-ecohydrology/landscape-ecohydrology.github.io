@@ -5,7 +5,7 @@ description: >
   Research on emerging contaminants
 hide_description: true
 sitemap: false
-permalink: /agroecoystems/
+permalink: /agroecosystems/
 ---
 
 ![](/assets/img/blog/9778d20aa8ba83b3ab678897b80811e5.jpg)

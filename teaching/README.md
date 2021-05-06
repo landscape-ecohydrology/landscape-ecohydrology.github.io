@@ -13,7 +13,7 @@ Description HERE
 
 
 
-[I'm an inline-style link](/_book/index.html)
+[I'm an inline-style link](/teaching/book/)
 
 Below is a collection of content, visualizations, etc. that I've used for lectures I've taught  
 

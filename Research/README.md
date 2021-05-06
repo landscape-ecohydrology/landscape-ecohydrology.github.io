@@ -12,7 +12,7 @@ Human impacted systems
 Integrating mechanistic and empirical models with data XXX to answer XXX  
 ecohydrological processes on biogeochemical cycles.   
 
-## [Ecohydrology of Wetlandscapes]{:.heading.flip-title} --- How to install and run Hydejack.
+## [Ecohydrology of Wetlandscapes]{:.heading.flip-title}
 
 ## Contaminant Transport of Emerging Contaminants
 

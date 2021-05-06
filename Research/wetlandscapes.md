@@ -8,7 +8,9 @@ sitemap: false
 permalink: /wetlandscapes/
 ---
 
-Wetlands are important ecosystems that provide many hydrological, water quality, and ecological benefits. However, we must recognize that wetlands do not operate alone, bXXXX wetlandscapes. Using a meta-analyis approach coupled with mechanistic modelling, our research showed that small wetlands are more biogeochemically reactive than their larger counterparts and can remove a disproportionate amount of excess nutrients per unit area (ten small 1-ha wetlands can remove much more nutrients than one 10-ha wetland!). While interest in using wetlands to preotect downstream water quality has increased, we also showed that there is a large spatial disconnect between nitrogen hotspots in the landscape and wetlandscapes at the national scale. 
+Wetlands are important ecosystems that provide many hydrological, water quality, and ecological benefits. However, we must recognize that wetlands do not operate alone, bXXXX wetlandscapes. 
+
+Coupling a meta-analyis approach with mechanistic modelling, our research showed that small wetlands are more biogeochemically reactive than their larger counterparts and can remove a disproportionate amount of excess nutrients per unit area (ten small 1-ha wetlands can remove much more nutrients than one 10-ha wetland!). While interest in using wetlands to preotect downstream water quality has increased, we also showed that there is a large spatial disconnect between nitrogen hotspots in the landscape and wetlandscapes at the national scale. 
 
 Our research aims to answer relevant management questions, such as what types of wetlands should we protect, or where should we prioritize restoration efforts. In our work, we showed that spatially targeting wetland restoration can yield significant reductions in nitrogen transport to the stream network and the Gulf of Mexico, in contrast to the current ad-hoc and decentralized approach. 
 

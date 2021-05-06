@@ -8,7 +8,7 @@ sitemap: false
 permalink: /agroecosystems/
 ---
 
-![](/assets/img/blog/9778d20aa8ba83b3ab678897b80811e5.jpg)
+![](/assets/img/blog/tree-water-grass-creek-marsh-field-657261-pxhere.com.jpg)
 
 INSERT TEXT HERE
 

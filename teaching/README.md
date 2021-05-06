@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Publications
+title: Teaching
 description: >
-  List of publications
+  Teaching
 hide_description: true
 sitemap: false
 permalink: /teaching/
 ---
 
 
-YOUTUBR EMBED
+YOUTUBE EMBED
 
 https://www.youtube.com/watch?v=z8Z2EdZgnlQ&t=1s

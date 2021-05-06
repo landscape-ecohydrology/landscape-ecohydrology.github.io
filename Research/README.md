@@ -12,7 +12,7 @@ Human impacted systems
 Integrating mechanistic and empirical models with data XXX to answer XXX  
 ecohydrological processes on biogeochemical cycles.   
 
-## [Ecohydrology of Wetlandscapes]{:.heading.flip-title}
+## [Wetlandscape Ecohydrology]{:.heading.flip-title}
 
 ## [Emerging Contaminants in Agroecosystems]{:.heading.flip-title} 
 
@@ -21,6 +21,6 @@ ecohydrological processes on biogeochemical cycles.
 ## Landscape Controls on Catchment Salinization
 
 
-[Ecohydrology of Wetlandscapes]: wetlandscapes.md
+[Wetlandscape Ecohydrology]: wetlandscapes.md
 [Emerging Contaminants in Agroecosystems]: agroecosystems.md
 [Carbon-Nitrogen Cycling in Reactive Interfaces]: reactiveinterfaces.md

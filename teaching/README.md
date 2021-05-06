@@ -24,6 +24,6 @@ Below is a collection of content, visualizations, etc. that I've used for lectur
 ### [Lectures and Presentations]{:.heading.flip-title} 
 
 
-[Contaminant Transport]: /_book/intro.html
-[Flow Through Porous Media]: /_book/intro.html
-[Lectures and Presentations]: /_book/methods.html
+[Contaminant Transport]: /teaching/book/intro.html
+[Flow Through Porous Media]: /teaching/book/intro.html
+[Lectures and Presentations]: /teaching/book/methods.html

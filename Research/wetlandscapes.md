@@ -1,6 +1,5 @@
 ---
-layout: default
-format: page-fullwidth
+layout: page-fullwidth
 title: Wetlandscape Ecohydrology
 description: >
   Research on wetlandscapes and wetland ecohydrology

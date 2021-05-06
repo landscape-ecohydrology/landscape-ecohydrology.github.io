@@ -1,10 +1,13 @@
 ---
-layout: page
+layout: default
+format: page-fullwidth
 title: Wetlandscape Ecohydrology
 description: >
   Research on wetlandscapes and wetland ecohydrology
 hide_description: true
 sitemap: false
+header:
+   image_fullwidth: "/assets/img/blog/9778d20aa8ba83b3ab678897b80811e5.jpg"
 permalink: /wetlandscapes/
 ---
 

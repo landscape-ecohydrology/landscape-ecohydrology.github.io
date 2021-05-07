@@ -1,7 +1,19 @@
 fig:nice-fig
 tab:nice-tab
 introduction
+teaching-philosophy
+new-content
 intro
+lentic-ecosystems
+general-mass-balance-and-assumptions
+mass-transport-processes
+mass-removal-processes
+residence-time
+damkohler-number
+streams-and-rivers
+general-mass-balance-and-assumptions-1
+residence-time-1
+dispersion
 flow-through-porous-media
 complexity-in-environmental-systems
 applications
@@ -11,3 +23,7 @@ lectures-and-presentations
 wetlandscapes-land-use-legacies-and-water-quality-futures
 biogeochemical-hotspots-the-role-of-small-wetlands-in-landscape-nutrient-processing
 understanding-head-potentials-in-aquiferaquitard-systems
+communicating-your-research
+stakeholder-infographics
+up-goer-five-challenge
+haiku-your-research

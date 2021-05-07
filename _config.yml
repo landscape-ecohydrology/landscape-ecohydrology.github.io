@@ -25,13 +25,14 @@ title:                 Landscape Ecohydrology
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Research by Frederick Cheng at the University of Waterloo. Research interests include
+ecohydrology, wetlands, watershed biogeochemistry. 
+
 # A shorter description for the sidebar.
 tagline:               Frederick Cheng  <br /> University of Waterloo
 
 # A list of keywords for your blog
-keywords:              [ecohydrology, biogeochemistry, watershed hydrology]
+keywords:              ecohydrology, biogeochemistry, watershed hydrology
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.

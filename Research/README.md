@@ -9,10 +9,7 @@ permalink: /research/
 ---
 <img align="right" width="375" src="/assets/img/blog/nature-aerial-photography-natural-landscape-reflection-water-resources-natural-environment-1503703-pxhere.com.jpg">
 
-The sustainable management of our water resources is XXXX  
-Human impacted systems  
-Integrating mechanistic and empirical models with data XXX to answer XXX  
-ecohydrological processes on biogeochemical cycles.   
+The challenges of managing our water resources is complex and often requires interdisciplinary approaches to understand. My research is often at the interface of hydrology, biogeochemistry, and ecology, with the goal of producing relevant knowledge to help inform stakeolders.
 
 My current research broadly covers the following topics:
 

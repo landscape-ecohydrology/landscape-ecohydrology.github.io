@@ -8,7 +8,7 @@ sitemap: false
 permalink: /wetlandscapes/
 ---
 
-![](/assets/img/blog/9778d20aa8ba83b3ab678897b80811e5.jpg)
+![](/assets/img/blog/wetlandscape.jpg)
 
 Wetlands are important ecosystems that provide many hydrological, water quality, and ecological benefits. However, we must recognize that wetlands do not operate alone, bXXXX wetlandscapes. 
 

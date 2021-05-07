@@ -7,6 +7,8 @@ hide_description: true
 sitemap: false
 permalink: /research/
 ---
+<img align="right" width="100" height="100" src="/assets/img/blog/nature-aerial-photography-natural-landscape-reflection-water-resources-natural-environment-1503703-pxhere.com.jpg">
+
 The sustainable management of our water resources is XXXX  
 Human impacted systems  
 Integrating mechanistic and empirical models with data XXX to answer XXX  

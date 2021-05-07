@@ -41,10 +41,10 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Frederick Cheng
+  email:               fycheng@uwaterloo.ca
   # # Used by `jekyll-seo-tag`:
-  twitter:             <username>
+  twitter:             pHred_cheng
 
 # Add links to the sidebar.
 menu:

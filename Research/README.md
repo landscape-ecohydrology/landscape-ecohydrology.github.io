@@ -7,12 +7,14 @@ hide_description: true
 sitemap: false
 permalink: /research/
 ---
-<img align="right" width="250" src="/assets/img/blog/nature-aerial-photography-natural-landscape-reflection-water-resources-natural-environment-1503703-pxhere.com.jpg">
+<img align="right" width="375" src="/assets/img/blog/nature-aerial-photography-natural-landscape-reflection-water-resources-natural-environment-1503703-pxhere.com.jpg">
 
 The sustainable management of our water resources is XXXX  
 Human impacted systems  
 Integrating mechanistic and empirical models with data XXX to answer XXX  
 ecohydrological processes on biogeochemical cycles.   
+
+My current research broadly covers the following topics:
 
 * [Wetlandscape Ecohydrology]{:.heading.flip-title}
 * [Emerging Contaminants in Agroecosystems]{:.heading.flip-title} 

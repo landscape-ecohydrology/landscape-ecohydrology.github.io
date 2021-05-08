@@ -31,7 +31,7 @@ description:           >
 tagline:               Frederick Cheng  <br /> University of Waterloo
 
 # A list of keywords for your blog
-keywords:              ecohydrology, biogeochemistry, watershed hydrology
+keywords:              ecohydrology, biogeochemistry, watershed hydrology, Frederick Cheng
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -359,7 +359,7 @@ twitter:
 
 # Used on index and about sites
 social:
-   name:                <firstname> <lastname>
+   name:                Frederick Cheng
    links:
      - https://twitter.com/pHred_cheng
      - https://github.com/landscape-ecohydrology

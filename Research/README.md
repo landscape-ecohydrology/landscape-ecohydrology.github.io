@@ -7,7 +7,7 @@ hide_description: true
 sitemap: false
 permalink: /research/
 ---
-<img align="right" width="375" src="/assets/img/blog/nature-aerial-photography-natural-landscape-reflection-water-resources-natural-environment-1503703-pxhere.com.jpg">
+<img src="/assets/img/blog/nature-aerial-photography-natural-landscape-reflection-water-resources-natural-environment-1503703-pxhere.com.jpg" style="float:right;width:40%;height:auto">
 
 The sustainable management of our water resources is complex and often requires interdisciplinary approaches to understand. My research is often at the interface of hydrology, biogeochemistry, and ecology, with the goal of producing relevant knowledge to help inform stakeolders.
 

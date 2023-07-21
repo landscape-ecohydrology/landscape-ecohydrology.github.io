@@ -10,6 +10,7 @@ permalink: /publications/
 
 If you don't have institutional or personal access to these papers, please request a reprint from fycheng@uwaterloo.ca
 
+* Cheng, F., Park, J., Kumar, M., Basu, N. 2023. *Disconnectivity matters: the outsized role of small ephemeral wetlands in landscape-scale nutrient retention* Environmental Research Letters. [doi:10.1088/1748-9326/acab17](https://doi.org/10.1088/1748-9326/acab17)
 
 * Cheng, F., Gall, H., Mashtare, M., Lee, L., and Basu, N. 2021. *Nevertheless, they persisted: Can hyporheic zones increase the persistence of estrogens in streams?* Water Resources Research. [doi:10.1029/2020WR028518](https://doi.org/10.1029/2020WR028518)
 

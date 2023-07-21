@@ -19,6 +19,9 @@ Our research aims to answer relevant management questions, such as what types of
 Our current work aims to look at the role of wetlandscape architecture and connectivity in regulating the hydrologic and biogeochemical functioning of a watershed. 
 
 ### Relevant Publications 
+
+Cheng, F., Park, J., Kumar, M., Basu, N. (2023). Disconnectivity matters: the outsized role of small ephemeral wetlands in landscape-scale nutrient retention. Environmental Research Letters. [doi:10.1088/1748-9326/acab17](https://doi.org/10.1088/1748-9326/acab17)
+
 Cheng, F. Y., Van Meter, K. J., Byrnes, D. K., & Basu, N. B. (2020). Maximizing US nitrate removal through wetland protection and restoration. Nature, 588(7839), 625–630. https://doi.org/10.1038/s41586-020-03042-5
 
 Cheng, F. Y., & Basu, N. B. (2017). Biogeochemical hotspots: Role of small water bodies in landscape nutrient processing. Water Resources Research. https://doi.org/10.1002/2016WR020102

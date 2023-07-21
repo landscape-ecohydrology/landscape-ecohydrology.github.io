@@ -28,7 +28,7 @@ description:           >
   Research by Frederick Cheng at the University of Waterloo on ecohydrology, wetlands, watershed biogeochemistry. 
 
 # A shorter description for the sidebar.
-tagline:               Frederick Cheng  <br /> University of Waterloo
+tagline:               Frederick Cheng  <br /> Colorado State University
 
 # A list of keywords for your blog
 keywords:              ecohydrology, biogeochemistry, watershed hydrology, Frederick Cheng
@@ -42,7 +42,7 @@ logo:                  /assets/img/logo.png
 author:
   # Used by `jekyll-feed`:
   name:                Frederick Cheng
-  email:               fycheng@uwaterloo.ca
+  email:               fycheng@colostate.edu
   # # Used by `jekyll-seo-tag`:
   twitter:             pHred_cheng
 

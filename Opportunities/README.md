@@ -10,9 +10,9 @@ permalink: /opportunities/
 
 <img src="/assets/img/blog/nature-aerial-photography-natural-landscape-reflection-water-resources-natural-environment-1503703-pxhere.com.jpg" style="float:right;width:40%;height:auto"/>
 
-## The Sustainable Watersheds lab is recruiting two PhD students in water quality modeling to start in August 2024!
+## The Sustainable Watersheds Group is recruiting two PhD students in water quality modeling to start in August 2024!
 
-The Sustainable Watersheds Lab in the Department of Environmental Sciences at the University of Virginia is recruiting two PhD students to start in August 2024! We're looking for motivated and enthusiastic students that are interested in advancing our knowledge of the natural infrastructure in the environment (e.g. streams, wetlands, lakes) as nature-based solutions to protect our environment.
+The Sustainable Watersheds Group in the Department of Environmental Sciences at the University of Virginia is recruiting two PhD students to start in August 2024! We're looking for motivated and enthusiastic students that are interested in advancing our knowledge of the natural infrastructure in the environment (e.g. streams, wetlands, lakes) as nature-based solutions to protect our environment.
 
 ### Available Positions
 

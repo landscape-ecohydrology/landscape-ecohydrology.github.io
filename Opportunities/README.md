@@ -22,7 +22,13 @@ The Sustainable Watersheds Lab in the Department of Environmental Sciences at th
 
 **Required/Preferred Qualifications**
 
-Successful applicants should: 1) have or be completing an undergraduate degree in environmental science or engineering, hydrology, biogeochemistry, aquatic sciences, geosciences, physical geography, data science, or related fields (a masters degree would be highly desirable); 2) Have experience in, or have strong interest in developing skills in, many of the following: scientific computing (in one of R, MATLAB, Python), data science, geospatial analysis, and/or deterministic modelling. 3) Past research experience is beneficial, but not required. Students from underrepresented groups in environmental sciences are highly encouraged to apply.
+Successful applicants should:
+
+1.  have or be completing an undergraduate degree in environmental science or engineering, hydrology, biogeochemistry, aquatic sciences, geosciences, physical geography, data science, or related fields (a master's degree in one of the listed fields would be highly desirable);
+
+2.  Have experience in, or have strong interest in developing skills in, many of the following: scientific computing (in one of R, MATLAB, Python), data science, geospatial analysis, and/or deterministic modelling.
+
+3.  Past research experience is beneficial, but not required. Students from underrepresented groups in environmental sciences are highly encouraged to apply.
 
 Both positions will be funded by research and teaching assistantships, which will include a competitive stipend, tuition waiver, and insurance benefits. The PhD program within the Graduate School of Arts and Science guarantees five years of funding. Office space, computing resources, and travel funds will be provided.
 

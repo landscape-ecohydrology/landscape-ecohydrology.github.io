@@ -10,9 +10,9 @@ permalink: /opportunities/
 
 <img src="/assets/img/blog/nature-aerial-photography-natural-landscape-reflection-water-resources-natural-environment-1503703-pxhere.com.jpg" style="float:right;width:40%;height:auto"/>
 
-## The Sustainable Watersheds Group is recruiting two PhD students in water quality modeling to start in August 2024!
+## The Sustainable Watersheds Group is recruiting two PhD students in water quality modelling for August 2024!
 
-The Sustainable Watersheds Group in the Department of Environmental Sciences at the University of Virginia is recruiting two PhD students to start in August 2024! We're looking for motivated and enthusiastic students that are interested in advancing our knowledge of the natural infrastructure in the environment (e.g. streams, wetlands, lakes) as nature-based solutions to protect our environment.
+The Sustainable Watersheds Group in the Department of Environmental Sciences at the University of Virginia is recruiting two PhD students for August 2024! We're looking for motivated and enthusiastic students that are interested in advancing our knowledge of the natural infrastructure in the environment (e.g. streams, wetlands, lakes) as nature-based solutions to protect our water resources.
 
 ### Available Positions
 
@@ -26,15 +26,15 @@ Successful applicants should:
 
 1.  have or be completing an undergraduate degree in environmental science or engineering, hydrology, biogeochemistry, aquatic sciences, geosciences, physical geography, data science, or related fields (a master's degree in one of the listed fields would be highly desirable);
 
-2.  Have experience in, or have strong interest in developing skills in, many of the following: scientific computing (in one of R, MATLAB, Python), data science, geospatial analysis, and/or deterministic modelling.
+2.  Have experience in, or have strong interest in developing skills in, many of the following: scientific computing (in one of R, MATLAB, Python), data science, geospatial analysis, statistical modelling and/or deterministic modelling.
 
-3.  Past research experience is beneficial, but not required. Students from underrepresented groups in environmental sciences are highly encouraged to apply.
+3.  Past research experience is beneficial, but not required.
 
 Both positions will be funded by research and teaching assistantships, which will include a competitive stipend, tuition waiver, and insurance benefits. The PhD program within the Graduate School of Arts and Science guarantees five years of funding. Office space, computing resources, and travel funds will be provided.
 
 ### How to Apply 
 
-If you have questions and/or are interested in joining our group, please contact Dr. Frederick Cheng as soon as possible ([fycheng\@colostate.edu](mailto:fycheng@colostate.edu)) with the subject line "Prospect graduate student". Preliminary contact by Nov 1, 2023 is preferred so that we can chat to see if the position will be a good fit. All qualified applications reaching out prior to Nov 1 will be considered. Please include the following in your email:
+If you have questions and/or are interested in joining our group, please contact Dr. Frederick Cheng as soon as possible ([fycheng\@colostate.edu](mailto:fycheng@colostate.edu)) with the subject line "Prospect graduate student". Preliminary contact by **Nov 1, 2023** is preferred so that we can chat to see if the position will be a good fit. All qualified applications reaching out prior to Nov 1 will be considered; students from underrepresented groups in environmental sciences are highly encouraged to apply. Please include the following in your email:
 
 1.  A copy of your CV
 2.  A brief description of why you are interested in joining our group

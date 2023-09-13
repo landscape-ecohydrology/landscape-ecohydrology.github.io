@@ -34,7 +34,7 @@ Both positions will be funded by research and teaching assistantships, which wil
 
 ### How to Apply 
 
-If you have questions and/or are interested in joining our group, please contact Dr. Frederick Cheng as soon as possible ([fycheng\@colostate.edu](mailto:fycheng@colostate.edu){.email}) with the subject line "Prospect graduate student". Preliminary contact by Nov 1, 2023 is preferred so that we can chat to see if the position will be a good fit. All qualified applications reaching out prior to Nov 1 will be considered. Please include the following:
+If you have questions and/or are interested in joining our group, please contact Dr. Frederick Cheng as soon as possible ([fycheng\@colostate.edu](mailto:fycheng@colostate.edu)) with the subject line "Prospect graduate student". Preliminary contact by Nov 1, 2023 is preferred so that we can chat to see if the position will be a good fit. All qualified applications reaching out prior to Nov 1 will be considered. Please include the following:
 
 1.  A copy of your CV
 2.  A brief description of why you are interested in joining our group

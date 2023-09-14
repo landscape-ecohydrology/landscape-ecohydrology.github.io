@@ -1,0 +1,93 @@
+# Lab Culture and Values {#cross}
+
+My hope is that this will be a social contract between myself and you, and you with the rest of the research group. Conducting research can be a long journey with ups and downs, and I want to cultivate an environment that is supportive and enriching for all our members. Note that this will be expanded when we fill out our mentorship agreement provided by the department, and discussed when you arrive at UVA.
+
+## Values in our lab
+
+-   **Mutual Respect and Equity**: XXX
+
+-   **Openness/Vulnerability**: XXX
+
+-   Growth
+
+-   Well-being
+
+    -   be kind to yourself and others
+
+## Fundamental Expectations
+
+### My commitment to you as a mentor {.unnumbered}
+
+I truly believe that I am successful only when my mentees are thriving while producing good science. I want to be clear that my students aren't 'number of publications' before they graduate and I want to help you be successful during *and* after your graduate training by giving you the necessary support and opportunities. To achieve this, I will:
+
+1.  Provide you guidance on your research project while encouraging intellectual curiosity and freedom
+
+2.  Ensure that you have sufficient funding throughout your tenure in our research group
+
+3.  Establish a meeting frequency that suits your current needs and stage of progress
+
+4.  Help shape your graduate training to ensure that you learn the appropriate technical skills and develop the soft skills necessary for your desired career goals
+
+5.  Help shape your graduate training so that you're on the path to becoming an independent scientist by the time you graduate from the group
+
+6.  Provide support and mutually establish expectations to ensure you have a good work-life balance/whole student experience
+
+7.  Encourage you, and highlight opportunities, to expand your academic and support network while at UVA and beyond.
+
+### My expectations of lab members {.unnumbered}
+
+1.  Conduct research with integrity and respect.
+2.  Share both achievements *and* setbacks. Research is full of ups and downs and I want to normalize both big and small failures, and celebrate successes when we get them. You should also keep track of activities in your CV for departmental reporting and future purposes.
+3.  Keep track of necessary administrative deadlines and degree requirements to ensure timely graduation and try to let me know with a reasonable buffer. I will do my best to remember general deadlines to keep you on track, but ultimately, it is more efficient if you remind me of anything you need me to do, read over, sign, etc.
+4.  Be open collaborators and show interest beyond your own research project.
+    -   Research is rarely done alone in our field. If I think you will benefit with collaborating with another researcher, I will give you space to work with them and ensure you get credit
+    -   There are also opportunities to mentor undergraduate students at UVA. This can be a mutually beneficial arrangement where you can hone your mentorship skills while getting research tasks completed, while helping an undergraduate student gain new skills.
+5.  Pursue an average of 1 external funding opportunities per year (e.g. GFRP, travel grants, scientific union/conference awards). These are good skills to develop and many materials are reusable either for your own dissertation or future applications. I hope to pass along opportunities and will help you with applications; you are *not* obligated to pursue every single one.
+6.  Work towards a healthy work-life balance (see below!). Easy to say, more difficult to do but having burnout doesn't do favours for anyone!
+7.  Contribute to the lab handbook to establish expectations, share experiences, etc.
+
+## Research Expectations and Outcomes
+
+In line with expectations in our field and the department, graduate students should expect to have one (master's students) or three (PhD students) first-author papers published *or* near submission prior to their graduation. Note that this is in excess of the minimum requirements from the department, but this will ensure a strong defense by graduation.
+
+My goal is to provide full funding for one major conference per year after you have reached the stage of near-publication for one chapter of your work. I also expect you to present your work at local/regional opportunities prior to that to develop your skills. Typical major conferences that I go to (not necessarily every year) are AGU Fall Meeting, Society of Freshwater Science Meeting, ASLO. Local/regional opportunities include: TBD.
+
+## How much work should I put in?
+
+For better or for worse, there can always be more to do in research: read one more paper, conduct more analyses, find more data, etc. As a researcher, our goal is to know when to stop, while producing work that is scientifically defensible and that we can be proud of.
+
+In order to do this, I expect students to work an *average* of 35 to 40 hours a week - some weeks may be less, some may be more. I do not want to glorify overwork or '80-hour' workweeks, but want to acknowledge that there are many tasks and responsibilities in research, while juggling coursework, teaching, extra-curricular activities, mental health, etc. Depending on your funding and course situation that term, the number of hours per task will change. I want to help you find your preferred work style so that you can 'work smart', instead of 'working long'. Remember that being at work does not mean you're doing work!
+
+To support your work-life balance, I will encourage you to:
+
+1.  Experiment and find a set of working hours that works for you early in your graduate studies. Some people thrive in a traditional 9-5, while others prefer to break up their day with an activity (e.g. the gym, club activity, etc.), or longer 4 day workweek. My expectation is that we set the schedule for the term and try to keep to it for planning purposes, but we can always adapt and revisit if it's not working.
+
+    a\. Fred will typically work 9-5 and expects some overlap for meetings, discussions, etc. Similarly, you will have to be respectful of staff, other students, etc. if you choose to have a non-traditional schedule
+
+2.  Plan for up to 14 vacation days per year, in addition to statutory/school holidays. Just be cognizant of class time, exams, etc.
+
+3.  Take necessary sick/mental health days and time off for appointments (separate from vacation days) - just let me know!
+
+4.  Let Fred know if you require an extended leave of absence. Life happens, and I want to ensure that you are supported during difficult times.
+
+When you join the research group, I will ask that you establish points 1) and 2) so that we can coordinate schedules. Please let Fred know if either changes!
+
+## Towards a healthy work-life balance
+
+-   I hope that all members of our group will have flexible work hours (see above) *and* modes of work (office vs work from home, etc.).
+
+-   Determine your working hours to set boundaries (using 'Do Not Disturb' features on Outlook and Slack to assist with that); I will not expect emails/responses from you outside these times.
+
+-   Have a formal check-in every semester to reflect on progress, successes, failures, and opportunities to change course, in addition to regularly scheduled meetings during the semester for more detailed discussions.
+
+    -   Don't hesitate to reach out for impromptu chats. Unless I'm teaching, in a meeting, or have some dedicated scheduled deep-work for a deadline, I am always happy to take a break and chat.
+
+-   I will encourage you to prioritize your physical and mental health and to make time for hobbies and relaxation.
+
+-   Build your 'support network'. There are many aspects of mentorship (see this [link](https://eswnonline.org/mentor-mapping/)) and I will strive to provide support in most of these areas. However, it is good to have multiple people to increase resilience and diversity in your network.
+
+-   It is common to tie our self-worth to the successes and failures of our research. While it's good to be proud of the work you do, I hope that you treat this degree as any other job (albeit one where you hopefully learn new things and have fun)
+
+## What to do when your PI is failing you
+
+You will spend 4+ years at our research group and there will inadvertently be points of friction. My hope is that they will only be minor issues, but regardless of the scale of the issue, I also hope that you feel comfortable discussing it with me in a timely manner so that we can resolve it together. However, I acknowledge that there is an inherent power dynamic differential in a mentorship relationship and you may not feel comfortable telling me (or for any other reason). In our mentorship agreement, we will have established the primary points of contact (most likely the department chair or graduate director) to help mediate issues.

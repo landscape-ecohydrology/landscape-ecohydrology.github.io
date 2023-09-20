@@ -10,7 +10,7 @@ permalink: /teaching/
 
 I will be tentatively teaching the following courses on rotation at the University of Virginia starting in Fall 2024:
 
--   EVSC 3600 - Physical Hydrology (Fall 2024)
+-   EVSC 3600: Physical Hydrology (Fall 2024)
 
 -   EVHY 5559: Environmental Water Quality (Spring 2025; spring in odd years)
 

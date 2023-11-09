@@ -20,6 +20,8 @@ I will be tentatively teaching the following courses on rotation at the Universi
 
 -   Seminar: Communicating with Environmental Data (TBD)
 
+-   Seminar: Watershed Biogeochemistry (TBD)
+
 Course codes and syllabi will be updated prior to the first offering of the course.
 
 ## Teaching Philosophy

@@ -10,11 +10,17 @@ permalink: /opportunities/
 
 <img src="/assets/img/blog/nature-aerial-photography-natural-landscape-reflection-water-resources-natural-environment-1503703-pxhere.com.jpg" style="float:right;width:40%;height:auto"/>
 
-## The Sustainable Watersheds Group is recruiting two PhD students in water quality modelling for August 2024!
+## The Landscape Ecohydrology Group is currently not accepting applications for graduate students for Fall 2024
 
-The Sustainable Watersheds Group in the Department of Environmental Sciences at the University of Virginia is recruiting two PhD students for August 2024! We're looking for motivated and enthusiastic students that are interested in advancing our knowledge of the natural infrastructure in the environment (e.g. streams, wetlands, lakes) as nature-based solutions to protect our water resources.
+[Graduate Positions]
 
-### Available Positions
+[Undergraduate Opportunities]
+
+## [Graduate Positions]{.underline}
+
+The following funded positions below are [**filled**]{.underline}. If you are a potential graduate student with your own funding or would like to apply in a future year, please contact Dr. Cheng directly.
+
+### Closed Positions (Fall 2024)
 
 **Position 1:** Quantifying the role of 'biogeochemical hotspots' (e.g. wetlands, riparian zones, etc.) in modifying water quality at watershed scales. Potential research areas could include: estimating changes in landscape biogeochemical cycles due to hydrologic extremes; quantifying how different management strategies of wetlands, reservoirs and/or riparian zones affect nutrient and contaminant fluxes to downstream waters, etc.; using machine or deep learning models to predict occurrences of algal blooms
 
@@ -34,11 +40,21 @@ Both positions will be funded by research and teaching assistantships, which wil
 
 ### How to Apply
 
-If you have questions and/or are interested in joining our group, please contact Dr. Frederick Cheng as soon as possible ([fycheng\@colostate.edu](mailto:fycheng@colostate.edu)) with the subject line "Prospective graduate student". Preliminary contact by **Nov 1, 2023** is preferred so that we can chat to see if the position will be a good fit. All qualified applications reaching out prior to Nov 1 will be considered; however, only applicants selected for interviews will be contacted. Students from underrepresented groups in environmental sciences are highly encouraged to apply. Please include the following in your email:
+The funded positions above are [**closed.**]{.underline} The following instructions below is only for informational purposes only.
+
+If you have questions and/or are interested in joining our group, please contact Dr. Frederick Cheng as soon as possible with the subject line "Prospective graduate student - \<Your name\>". Preliminary contact by **Nov 1** is preferred so that we can chat to see if the position will be a good fit. All qualified applications reaching out prior to Nov 1 will be considered; however, only applicants selected for interviews will be contacted. Students from underrepresented groups in environmental sciences are highly encouraged to apply. Please include the following in your email:
 
 1.  A copy of your CV
 2.  A brief description of why you are interested in joining our group
 3.  A brief description of any prior research activities, and/or relevant skills (please note that direct research experience, and the listed skills above are not required for admission)
 4.  A brief summary of your current and future career/educational interests
 
-Formal applications to the University of Virginia are due January 15, 2024 for the fall 2024 semester, but sponsorship by a faculty member is essential. See <https://evsc.as.virginia.edu/prospective-graduate-students> for further information on the formal application process.
+Formal applications to the University of Virginia are typically due \~January 15 for the fall term of the same year, but sponsorship by a faculty member is essential. See <https://evsc.as.virginia.edu/prospective-graduate-students> for further information on the formal application process.
+
+## [Undergraduate Opportunities]{.underline}
+
+Undergraduate research positions will be available starting Spring 2024. Our group will offer volunteer/paid/for-credit opportunities, depending on the scope of work and available funds. Interested students should contact Dr. Cheng with the subject line ""Prospective graduate student - \<Your name\>".
+
+Depending on the current needs of the group, tasks will be in support of the current research activities and can be on or more of the following: literature review, data processing, data visualization, running models/code, exploratory data analysis, etc. Some familiarity with a computational language (R, Python, MATLAB, etc.) is recommended, but further guidance will be provided.
+
+Students wishing to develop their research skills further and/or enter the Distinguished Majors Program should contact Dr. Cheng early in advance to discuss possible research projects.

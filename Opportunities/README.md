@@ -12,13 +12,13 @@ permalink: /opportunities/
 
 ## The Landscape Ecohydrology Group is currently not accepting applications for graduate students for Fall 2024
 
-[Graduate Positions]
+[Graduate Positions](Graduate Positions)
 
-[Undergraduate Opportunities]
+[Undergraduate Opportunities](Undergraduate Opportunities)
 
 ## Graduate Positions
 
-The following funded positions below are [**filled**]{.underline}. If you are a potential graduate student with your own funding or would like to apply in a future year, please contact Dr. Cheng directly.
+The following funded positions below are **closed**. If you are a potential graduate student with your own funding or would like to apply in a future year, please contact Dr. Cheng directly.
 
 ### Closed Positions (Fall 2024)
 
@@ -40,7 +40,7 @@ Both positions will be funded by research and teaching assistantships, which wil
 
 ### How to Apply
 
-The funded positions above are [**closed.**]{.underline} The following instructions below is only for informational purposes only.
+The funded positions above are **closed.** The following instructions below is only for informational purposes only.
 
 If you have questions and/or are interested in joining our group, please contact Dr. Frederick Cheng as soon as possible with the subject line "Prospective graduate student - \<Your name\>". Preliminary contact by **Nov 1** is preferred so that we can chat to see if the position will be a good fit. All qualified applications reaching out prior to Nov 1 will be considered; however, only applicants selected for interviews will be contacted. Students from underrepresented groups in environmental sciences are highly encouraged to apply. Please include the following in your email:
 

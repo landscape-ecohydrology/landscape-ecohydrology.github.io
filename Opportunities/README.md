@@ -57,4 +57,4 @@ Undergraduate research positions will be available starting Spring 2024. Our gro
 
 Depending on the current needs of the group, tasks will be in support of the current research activities and can be on or more of the following: literature review, data processing, data visualization, running models/code, exploratory data analysis, etc. Some familiarity with a computational language (R, Python, MATLAB, etc.) is recommended, but further guidance will be provided.
 
-Students wishing to develop their research skills further and/or enter the Distinguished Majors Program should contact Dr. Cheng early in advance to discuss possible research projects.
+Students wishing to continue their work into a student thesis or enter the Distinguished Majors Program are highly encouraged and should contact Dr. Cheng early in advance to discuss possible research projects.

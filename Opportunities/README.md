@@ -12,9 +12,9 @@ permalink: /opportunities/
 
 ## The Landscape Ecohydrology Group is currently not accepting applications for graduate students for Fall 2024
 
-[Graduate Positions](Graduate Positions)
+[Graduate Positions](#Graduate Positions)
 
-[Undergraduate Opportunities](Undergraduate Opportunities)
+[Undergraduate Opportunities](#Undergraduate Opportunities)
 
 ## Graduate Positions
 

@@ -12,11 +12,11 @@ permalink: /opportunities/
 
 ## The Landscape Ecohydrology Group is currently not accepting applications for graduate students for Fall 2024
 
-[Graduate Positions](#Graduate-Positions)
+[Graduate Positions](#graduate-positions)
 
-[Undergraduate Opportunities](#Undergraduate-Opportunities)
+[Undergraduate Opportunities](#undergraduate-opportunities)
 
-## Graduate Positions
+## Graduate Positions  {#graduate-positions}
 
 The following funded positions below are **closed**. If you are a potential graduate student with your own funding or would like to apply in a future year, please contact Dr. Cheng directly.
 
@@ -51,7 +51,7 @@ If you have questions and/or are interested in joining our group, please contact
 
 Formal applications to the University of Virginia are typically due \~January 15 for the fall term of the same year, but sponsorship by a faculty member is essential. See <https://evsc.as.virginia.edu/prospective-graduate-students> for further information on the formal application process.
 
-## Undergraduate Opportunities
+## Undergraduate Opportunities {#undergraduate-opportunities}
 
 Undergraduate research positions will be available starting Spring 2024. Our group will offer volunteer/paid/for-credit opportunities, depending on the scope of work and available funds. Interested students should contact Dr. Cheng with the subject line ""Prospective graduate student - \<Your name\>".
 

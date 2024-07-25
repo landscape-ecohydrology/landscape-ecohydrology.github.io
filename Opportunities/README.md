@@ -16,7 +16,7 @@ permalink: /opportunities/
 
 [Undergraduate Opportunities](#undergraduate-opportunities)
 
-## Graduate Positions  {#graduate-positions}
+## Graduate Positions {#graduate-positions}
 
 The following funded positions below are **closed**. If you are a potential graduate student with your own funding or would like to apply in a future year, please contact Dr. Cheng directly.
 
@@ -53,8 +53,12 @@ Formal applications to the University of Virginia are typically due \~January 15
 
 ## Undergraduate Opportunities {#undergraduate-opportunities}
 
-Undergraduate research positions will be available starting Spring 2024. Our group will offer volunteer/paid/for-credit opportunities, depending on the scope of work and available funds. Interested students should contact Dr. Cheng with the subject line ""Prospective graduate student - \<Your name\>".
+Gaining research opportunities is a great way to apply skills and concepts from coursework towards complex problems. Research experience is also helpful in determining if you want to go to graduate school.
 
-Depending on the current needs of the group, tasks will be in support of the current research activities and can be on or more of the following: literature review, data processing, data visualization, running models/code, exploratory data analysis, etc. Some familiarity with a computational language (R, Python, MATLAB, etc.) is recommended, but further guidance will be provided.
+Undergraduate researchers can join the Landscape Ecohydrology group in two ways:
 
-Students wishing to continue their work into a student thesis or enter the Distinguished Majors Program are highly encouraged and should contact Dr. Cheng early in advance to discuss possible research projects.
+-   as a paid research assistant. Depending on the current needs of the group, tasks will be in support of the current research activities and can be on or more of the following: literature review, data processing, data visualization, running models/code, exploratory data analysis, etc. Some familiarity with a computational language (R, Python, MATLAB, etc.) is recommended, but further guidance will be provided.
+
+-   as part of an academic course/thesis. You can either work on a project in support of current research activities in the group, OR work on an independent project. Students wishing to pursue an indpendent project (such as for the Distinguished Majors Program) or continue their work into a student thesis are highly encouraged and should contact Dr. Cheng early in advance to discuss possible research projects.
+
+Undergraduate research positions will be available starting Spring 2024. Interested students should contact Dr. Cheng with the subject line ""Prospective undergraduate student - \<Your name\>".

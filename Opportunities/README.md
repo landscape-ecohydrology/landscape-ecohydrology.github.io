@@ -20,13 +20,6 @@ permalink: /opportunities/
 
 The following funded positions below are **closed**. If you are a potential graduate student with your own funding or would like to apply in a future year, please contact Dr. Cheng directly.
 
-``` html
-<details>
-<summary>Closed Positions (Fall 2024)</summary>
-test
-</details>
-```
-
 ### Closed Positions (Fall 2024)
 
 **Position 1:** Quantifying the role of 'biogeochemical hotspots' (e.g. wetlands, riparian zones, etc.) in modifying water quality at watershed scales. Potential research areas could include: estimating changes in landscape biogeochemical cycles due to hydrologic extremes; quantifying how different management strategies of wetlands, reservoirs and/or riparian zones affect nutrient and contaminant fluxes to downstream waters, etc.; using machine or deep learning models to predict occurrences of algal blooms
@@ -44,10 +37,6 @@ Successful applicants should:
 3.  Past research experience is beneficial, but not required.
 
 Both positions will be funded by research and teaching assistantships, which will include a competitive stipend, tuition waiver, and insurance benefits. The PhD program within the Graduate School of Arts and Science guarantees five years of funding. Office space, computing resources, and travel funds will be provided.
-
-``` html
-</details>
-```
 
 ### How to Apply
 

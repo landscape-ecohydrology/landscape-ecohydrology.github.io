@@ -20,7 +20,7 @@ permalink: /opportunities/
 
 The following funded positions below are **closed**. If you are a potential graduate student with your own funding or would like to apply in a future year, please contact Dr. Cheng directly.
 
-``` markdown
+``` html
 <details>
 <summary>Closed Positions (Fall 2024)</summary>
 ```
@@ -43,7 +43,7 @@ Successful applicants should:
 
 Both positions will be funded by research and teaching assistantships, which will include a competitive stipend, tuition waiver, and insurance benefits. The PhD program within the Graduate School of Arts and Science guarantees five years of funding. Office space, computing resources, and travel funds will be provided.
 
-```         
+``` html
 </details>
 ```
 

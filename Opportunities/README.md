@@ -20,14 +20,8 @@ permalink: /opportunities/
 
 The following funded positions below are **closed**. If you are a potential graduate student with your own funding or would like to apply in a future year, please contact Dr. Cheng directly.
 
-```{=html}
-<details>
-<summary>Closed Positions (Fall 2024)</summary>
+### Closed Positions (Fall 2024)
 
-Position 1: Quantifying the role of 'biogeochemical hotspots' (e.g. wetlands, riparian zones, etc.) in modifying water quality at watershed scales. Potential research areas could include: estimating changes in landscape biogeochemical cycles due to hydrologic extremes; quantifying how different management strategies of wetlands, reservoirs and/or riparian zones affect nutrient and contaminant fluxes to downstream waters, etc.; using machine or deep learning models to predict occurrences of algal blooms
-
-</details>
-```
 **Position 1:** Quantifying the role of 'biogeochemical hotspots' (e.g. wetlands, riparian zones, etc.) in modifying water quality at watershed scales. Potential research areas could include: estimating changes in landscape biogeochemical cycles due to hydrologic extremes; quantifying how different management strategies of wetlands, reservoirs and/or riparian zones affect nutrient and contaminant fluxes to downstream waters, etc.; using machine or deep learning models to predict occurrences of algal blooms
 
 **Position 2:** Quantifying the co-benefits and trade-offs between ecosystem functions under changing environmental conditions and anthropogenic pressures. Potential research areas could include: developing/using process-based models coupling hydrologic and biogeochemical processes; quantifying trade-offs between carbon storage, greenhouse gas emission, water quality improvements, etc. of different biogeochemical hotspots; exploring how combinations of different hotspots can enhance watershed biogeochemical functions.

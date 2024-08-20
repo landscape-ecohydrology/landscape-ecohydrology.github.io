@@ -23,6 +23,8 @@ The following funded positions below are **closed**. If you are a potential grad
 ``` html
 <details>
 <summary>Closed Positions (Fall 2024)</summary>
+test
+</details>
 ```
 
 ### Closed Positions (Fall 2024)

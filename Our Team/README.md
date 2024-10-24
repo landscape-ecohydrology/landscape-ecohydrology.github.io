@@ -8,33 +8,6 @@ sitemap: false
 permalink: /team/
 ---
 
-## Graduate Students
-
-+---------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/team-tolentino.jpg){width="150"} | **Meara Tolentino**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-|                                             | Meara is a PhD student in the lab studying X, Y, Z                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-+---------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/team-boyle.png){width="150"}     | **Jack Boyle**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-|                                             | Jack is a MS student in the lab. He holds a bachelors degree in Environmental Science from the University of Notre Dame, where he studied limnology (the study of lakes) and conducted studies at a field station in Northern Wisconsin. Additionally, he spent time studying the effects of PFAS biomagnification within Lake Michigan prey fish. At UVA he studies the effects of nitrogen retention in wetlands, rivers and lakes. Outside the lab, Jack enjoys running, playing Mario Cart, and traveling to Montana to exploring the backcountry. |
-+---------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-
-**Jack Boyle**
-
-Jack is a MS student in the lab. He holds a bachelors degree in Environmental Science from the University of Notre Dame, where he studied limnology (the study of lakes) and conducted studies at a field station in Northern Wisconsin. Additionally, he spent time studying the effects of PFAS biomagnification within Lake Michigan prey fish. At UVA he studies the effects of nitrogen retention in wetlands, rivers and lakes. Outside the lab, Jack enjoys running, playing Mario Cart, and traveling to Montana to exploring the backcountry.
-
-**Meara Tolentino**
-
-Meara is a PhD student in the lab studying X, Y, Z
-
-## Undergraduate Students
-
-**Owen Shaffer Undergraduate (DMP)**
-
-**Katie Glazier Undergraduate**
-
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -103,29 +76,26 @@ html {
 <p>Resize the browser window to see the effect.</p>
 <br>
 
+
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
+      <img src="/assets/img/blog/team-tolentino.jpg" alt="Meara" style="width:100%">
       <div class="container">
-        <h2>Jane Doe</h2>
-        <p class="title">CEO & Founder</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
+        <h2>Meara Tolentino</h2>
+        <p class="title">PhD Student</p>
+        <p>Meara is a PhD student in the lab studying X, Y, Z.</p>
       </div>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <img src="/w3images/team2.jpg" alt="Mike" style="width:100%">
+      <img src="/assets/img/blog/team-boyle.jpg"" alt="Jack" style="width:100%">
       <div class="container">
-        <h2>Mike Ross</h2>
-        <p class="title">Art Director</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
+        <h2>Jack Boyle</h2>
+        <p class="title">MS Student</p>
+        <p>Jack is a MS student in the lab. He holds a bachelors degree in Environmental Science from the University of Notre Dame, where he studied limnology (the study of lakes) and conducted studies at a field station in Northern Wisconsin. Additionally, he spent time studying the effects of PFAS biomagnification within Lake Michigan prey fish. At UVA he studies the effects of nitrogen retention in wetlands, rivers and lakes. Outside the lab, Jack enjoys running, playing Mario Cart, and traveling to Montana to exploring the backcountry.</p>
       </div>
     </div>
   </div>
@@ -134,14 +104,25 @@ html {
     <div class="card">
       <img src="/w3images/team3.jpg" alt="John" style="width:100%">
       <div class="container">
-        <h2>John Doe</h2>
-        <p class="title">Designer</p>
+        <h2>Owen Shaffer</h2>
+        <p class="title">Undergrad DMP Thesis</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>
+  
+  <div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="/assets/img/blog/team-tolentino.jpg" alt="Meara" style="width:100%">
+      <div class="container">
+        <h2>Katie Glathier</h2>
+        <p class="title">Undergraduate Research Assistant</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+      </div>
+    </div>
+  </div>
+  
 </div>
 
 </body>

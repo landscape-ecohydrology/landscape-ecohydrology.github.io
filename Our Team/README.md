@@ -36,7 +36,7 @@ html {
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  min-height: 500px; /* Set a minimum height for the card */
+  min-height: 600px; /* Set a minimum height for the card */
   max-height: 600px; /* Set a maximum height */
   display: flex;
   flex-direction: column;

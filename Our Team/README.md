@@ -36,8 +36,8 @@ html {
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  min-height: 400px; /* Set a minimum height for the card */
-  max-height: 500px; /* Set a maximum height */
+  min-height: 500px; /* Set a minimum height for the card */
+  max-height: 600px; /* Set a maximum height */
   display: flex;
   flex-direction: column;
   overflow: auto; /* Hide overflow if it exceeds max height */
@@ -119,7 +119,7 @@ html {
     <div class="card">
       <img src="" alt="Katie" style="width:100%">
       <div class="container">
-        <h2>Katie Glathier</h2>
+        <h2>Katie Glazier</h2>
         <p class="title">Undergraduate Research Assistant</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
       </div>

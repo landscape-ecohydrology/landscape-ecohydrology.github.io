@@ -89,7 +89,7 @@ html {
 
   <div class="column">
     <div class="card">
-      <img src="/assets/img/blog/team-boyle.png"" alt="Jack" style="width:100%">
+      <img src="/assets/img/blog/team-boyle.png" alt="Jack" style="width:100%">
       <div class="container">
         <h2>Jack Boyle</h2>
         <p class="title">MS Student</p>

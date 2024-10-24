@@ -83,7 +83,7 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/assets/img/blog/team-tolentino.jpg" alt="Meara" style="width:100%">
+      <img src="/assets/img/blog/team-tolentino2.jpg" alt="Meara" style="width:100%">
       <div class="container">
         <h2>Meara Tolentino</h2>
         <p class="title">PhD Student</p>

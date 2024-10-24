@@ -8,7 +8,6 @@ sitemap: false
 permalink: /team/
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -72,8 +71,7 @@ html {
 </head>
 <body>
 
-<h2>Responsive "Meet The Team" Section</h2>
-<p>Resize the browser window to see the effect.</p>
+<h2>Meet The Team</h2>
 <br>
 
 
@@ -102,7 +100,7 @@ html {
   
   <div class="column">
     <div class="card">
-      <img src="/w3images/team3.jpg" alt="John" style="width:100%">
+      <img src="/w3images/team3.png" alt="John" style="width:100%">
       <div class="container">
         <h2>Owen Shaffer</h2>
         <p class="title">Undergrad DMP Thesis</p>
@@ -114,7 +112,7 @@ html {
   <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/assets/img/blog/team-tolentino.jpg" alt="Meara" style="width:100%">
+      <img src="" alt="Meara" style="width:100%">
       <div class="container">
         <h2>Katie Glathier</h2>
         <p class="title">Undergraduate Research Assistant</p>

@@ -37,12 +37,10 @@ html {
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   min-height: 400px; /* Set a minimum height for the card */
-  display: flex;
-  flex-direction: column;
   max-height: 500px; /* Set a maximum height */
   display: flex;
-  flex-direction: column;
-  overflow: hidden; /* Hide overflow if it exceeds max height */
+  flex-direction: row;
+  overflow: auto; /* Hide overflow if it exceeds max height */
 }
 
 .container {

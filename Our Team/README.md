@@ -1,0 +1,37 @@
+---
+layout: page
+title: Our Team
+description: >
+  Our current lab group!
+hide_description: true
+sitemap: false
+permalink: /team/
+---
+
+## Graduate Students
+
++---------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/team-tolentino.jpg){width="300"} | **Meara Tolentino**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|                                             | Meara is a PhD student in the lab studying X, Y, Z                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
++---------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/team-boyle.png){width="300"}     | Jack is a MS student in the lab. He holds a bachelors degree in Environmental Science from the University of Notre Dame, where he studied limnology (the study of lakes) and conducted studies at a field station in Northern Wisconsin. Additionally, he spent time studying the effects of PFAS biomagnification within Lake Michigan prey fish. At UVA he studies the effects of nitrogen retention in wetlands, rivers and lakes. Outside the lab, Jack enjoys running, playing Mario Cart, and traveling to Montana to exploring the backcountry. |
++---------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+![](images/team-tolentino.jpg){width="300"}
+
+**Meara Tolentino**
+
+Meara is a PhD student in the lab studying X, Y, Z
+
+![](images/team-boyle.png){width="300"}
+
+**Jack Boyle**
+
+Jack is a MS student in the lab. He holds a bachelors degree in Environmental Science from the University of Notre Dame, where he studied limnology (the study of lakes) and conducted studies at a field station in Northern Wisconsin. Additionally, he spent time studying the effects of PFAS biomagnification within Lake Michigan prey fish. At UVA he studies the effects of nitrogen retention in wetlands, rivers and lakes. Outside the lab, Jack enjoys running, playing Mario Cart, and traveling to Montana to exploring the backcountry.
+
+## Undergraduate Students
+
+**Owen Shaffer Undergraduate (DMP)**
+
+**Katie Glazier Undergraduate**

@@ -36,6 +36,13 @@ html {
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  min-height: 400px; /* Set a minimum height for the card */
+  display: flex;
+  flex-direction: column;
+  max-height: 500px; /* Set a maximum height */
+  display: flex;
+  flex-direction: column;
+  overflow: hidden; /* Hide overflow if it exceeds max height */
 }
 
 .container {
@@ -100,7 +107,7 @@ html {
   
   <div class="column">
     <div class="card">
-      <img src="/w3images/team3.png" alt="John" style="width:100%">
+      <img src="/w3images/team3.png" alt="Owen" style="width:100%">
       <div class="container">
         <h2>Owen Shaffer</h2>
         <p class="title">Undergrad DMP Thesis</p>
@@ -112,7 +119,7 @@ html {
   <div class="row">
   <div class="column">
     <div class="card">
-      <img src="" alt="Meara" style="width:100%">
+      <img src="" alt="Katie" style="width:100%">
       <div class="container">
         <h2>Katie Glathier</h2>
         <p class="title">Undergraduate Research Assistant</p>

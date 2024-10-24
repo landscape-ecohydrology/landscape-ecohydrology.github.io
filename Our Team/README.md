@@ -39,7 +39,7 @@ html {
   min-height: 400px; /* Set a minimum height for the card */
   max-height: 500px; /* Set a maximum height */
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   overflow: auto; /* Hide overflow if it exceeds max height */
 }
 

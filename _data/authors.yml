@@ -3,7 +3,7 @@
 # Change `author1` to your shortname.
 author1:
   name:                Frederick Cheng
-  email:               fycheng@colostate.edu
+  email:               frederick.cheng@virginia.edu
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -28,7 +28,7 @@ author1:
   social:
     twitter:         pHred_cheng
     github:          https://github.com/landscape-ecohydrology
-    email:           fycheng@colostate.edu
+    email:           frederick.cheng@virginia.edu
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     google:          https://scholar.google.ca/citations?user=2fIn9-oAAAAJ&hl

@@ -105,7 +105,7 @@ html {
   
   <div class="column">
     <div class="card">
-      <img src="/assets/img/blog/team-shaffer.png" alt="Jack" style="width:100%">
+      <img src="/assets/img/blog/team-shaffer.JPG" alt="Owen" style="width:100%">
       <div class="container">
         <h2>Owen Shaffer</h2>
         <p class="title">Undergrad DMP Thesis</p>

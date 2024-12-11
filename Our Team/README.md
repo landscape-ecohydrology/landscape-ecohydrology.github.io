@@ -85,9 +85,8 @@ html {
 
 <br>
 
-:::::::: row
-::: column
-```         
+
+       
 <div class="card">
   <img src="/assets/img/blog/team-tolentino2.jpg" alt="Meara" style="width:100%">
   <div class="container">
@@ -96,11 +95,10 @@ html {
     <p>Meara is a PhD student in the lab studying X, Y, Z.</p>
   </div>
 </div>
-```
-:::
 
-::: column
-```         
+
+
+       
 <div class="card">
   <img src="/assets/img/blog/team-boyle.png" alt="Jack" style="width:100%">
   <div class="container">
@@ -109,11 +107,7 @@ html {
     <p>Jack is a MS student in the lab. He holds a bachelors degree in Environmental Science from the University of Notre Dame, where he studied limnology (the study of lakes) and conducted studies at a field station in Northern Wisconsin. Additionally, he spent time studying the effects of PFAS biomagnification within Lake Michigan prey fish. At UVA he studies the effects of nitrogen retention in wetlands, rivers and lakes. Outside the lab, Jack enjoys running, playing Mario Cart, and traveling to Montana to exploring the backcountry.</p>
   </div>
 </div>
-```
-:::
-
-::: column
-```         
+      
 <div class="card">
   <img src="/assets/img/blog/team-shaffer.JPG" alt="Owen" style="width:100%">
   <div class="container">
@@ -122,12 +116,7 @@ html {
     <p>Quantifying the effects of Clean Water Act regulations on wetlands and water quality.</p>
   </div>
 </div>
-```
-:::
-
-:::: row
-::: column
-```         
+      
 <div class="card">
   <img src="" alt="Katie" style="width:100%">
   <div class="container">
@@ -136,7 +125,4 @@ html {
     <p>Some text that describes me lorem ipsum ipsum lorem.</p>
   </div>
 </div>
-```
-:::
-::::
-::::::::
+

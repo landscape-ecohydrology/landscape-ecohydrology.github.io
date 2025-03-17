@@ -10,7 +10,7 @@ permalink: /teaching/
 
 I will be teaching the following courses on rotation at the University of Virginia - future courses are tentative:
 
--   EVSC 1600: Water on Earth (Fall 2025)
+-   EVSC 1600: Water on Earth (Fall 2025, [syllabus here](https://landscape-ecohydrology.github.io/assets/pdf/EVSC%201600%20-%20Syllabus.pdf))
 
 -   EVSC 3600: Physical Hydrology (Fall 2024, Spring 2026; [syllabus here](https://landscape-ecohydrology.github.io/assets/pdf/EVSC%203600%20-%20Physical%20Hydrology%20Syllabus%20-%20F24.pdf))
 

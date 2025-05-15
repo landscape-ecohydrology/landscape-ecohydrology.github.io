@@ -118,3 +118,17 @@ html {
 </div>
 </body>
 </html>
+
+
+
+## Lab Alumni!
+
+Owen Shaffer (Spring 2025). Distinguished Major Program Thesis. The Outsized Role of Vulnerable Wetlands in 
+Nitrogen Cycling Across the US in the Context of Changing Clean Water Act Protections.
+ 
+
+
+
+
+
+

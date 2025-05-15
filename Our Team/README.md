@@ -75,7 +75,7 @@ html {
 
 .flip-card-front img {
   width: 100%;
-  height: 250px; /* Reduced height of image */
+  height: 300px; 
   object-fit: cover;
 }
 
@@ -125,7 +125,6 @@ html {
           <img src="/assets/img/blog/team-tolentino2.jpg" alt="Meara">
           <h2>Meara Tolentino</h2>
           <p class="title">PhD Student</p>
-          <p class="flip-prompt">(Hover/click to learn more)</p>
         </div>
         <div class="flip-card-back">
           <h2>Meara Tolentino</h2>
@@ -143,7 +142,6 @@ html {
           <img src="/assets/img/blog/team-boyle.png" alt="Jack">
           <h2>Jack Boyle</h2>
           <p class="title">MS Student</p>
-          <p class="flip-prompt">(Hover/click to learn more)</p>
         </div>
         <div class="flip-card-back">
           <h2>Jack Boyle</h2>
@@ -163,7 +161,6 @@ html {
           <img src="/assets/img/blog/team-shaffer.png" alt="Owen">
           <h2>Owen Shaffer</h2>
           <p class="title">Undergrad DMP Thesis</p>
-          <p class="flip-prompt">(Hover/click to learn more)</p>
         </div>
         <div class="flip-card-back">
           <h2>Owen Shaffer</h2>
@@ -181,7 +178,6 @@ html {
           <img src="" alt="Katie" style="background-color: #eee;">
           <h2>Katie Glazier</h2>
           <p class="title">Undergraduate Research Assistant</p>
-          <p class="flip-prompt">(Hover/click to learn more)</p>
         </div>
         <div class="flip-card-back">
           <h2>Katie Glazier</h2>

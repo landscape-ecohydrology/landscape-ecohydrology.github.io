@@ -21,8 +21,8 @@ html {
 .column {
   float: left;
   width: 50%;
-  margin-bottom: 16px;
-  padding: 0 8px;
+  margin-bottom: 30px;
+  padding: 0 15px;
 }
 @media screen and (max-width: 650px) {
   .column {
@@ -30,64 +30,123 @@ html {
     display: block;
   }
 }
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  min-height: 500px; /* Set a minimum height for the card */
-  max-height: 500px; /* Set a maximum height */
+
+/* The flip card container */
+.flip-card {
+  background-color: transparent;
+  height: 400px;
+  perspective: 1000px; /* 3D effect */
+}
+
+/* This container positions the front and back sides */
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+/* Do the horizontal flip when hovering */
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+/* Position the front and back sides */
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden; /* Safari */
+  backface-visibility: hidden;
+  overflow: hidden;
+}
+
+/* Style the front side */
+.flip-card-front {
+  background-color: #fff;
+  color: black;
   display: flex;
   flex-direction: column;
-  overflow: auto; /* Hide overflow if it exceeds max height */
+  align-items: center;
+  justify-content: flex-start;
+  padding-bottom: 10px;
 }
-.container {
-  padding: 0 16px;
+
+.flip-card-front img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
 }
-.container::after, .row::after {
-  content: "";
-  clear: both;
-  display: table;
+
+/* Style the back side */
+.flip-card-back {
+  background-color: #f9f9f9;
+  color: #333;
+  transform: rotateY(180deg);
+  padding: 20px;
+  overflow-y: auto;
 }
+
 .title {
   color: grey;
+  margin-top: 0;
 }
-.button {
-  border: none;
-  outline: 0;
-  display: inline-block;
-  padding: 8px;
-  color: white;
-  background-color: #000;
-  text-align: center;
-  cursor: pointer;
-  width: 100%;
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
-.button:hover {
-  background-color: #555;
+
+/* Add a prompt to let users know they can flip */
+.flip-prompt {
+  font-size: 12px;
+  font-style: italic;
+  margin-top: 5px;
+  color: #666;
 }
 </style>
 </head>
 <body>
 <h2>Meet The Team</h2>
+<p>Hover over a card to learn more about our team members.</p>
 <br>
 
 <div class="row">
   <div class="column">
-    <div class="card">
-      <img src="/assets/img/blog/team-tolentino2.jpg" alt="Meara" style="width:100%">
-      <div class="container">
-        <h2>Meara Tolentino</h2>
-        <p class="title">PhD Student</p>
-        <p>Meara is a PhD student in the lab studying carbon dynamics across the terrestrial-coastal continuum.</p>
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          <img src="/assets/img/blog/team-tolentino2.jpg" alt="Meara">
+          <h2>Meara Tolentino</h2>
+          <p class="title">PhD Student</p>
+          <p class="flip-prompt">(Hover to learn more)</p>
+        </div>
+        <div class="flip-card-back">
+          <h2>Meara Tolentino</h2>
+          <p class="title">PhD Student</p>
+          <p>Meara is a PhD student in the lab studying carbon dynamics across the terrestrial-coastal continuum.</p>
+        </div>
       </div>
     </div>
   </div>
   
   <div class="column">
-    <div class="card">
-      <img src="/assets/img/blog/team-boyle.png" alt="Jack" style="width:100%">
-      <div class="container">
-        <h2>Jack Boyle</h2>
-        <p class="title">MS Student</p>
-        <p>Jack is a MS student in the lab. He holds a bachelors degree in Environmental Science from the University of Notre Dame, where he studied limnology (the study of lakes) and conducted studies at a field station in Northern Wisconsin. Additionally, he spent time studying the effects of PFAS biomagnification within Lake Michigan prey fish. At UVA he studies the effects of nitrogen retention in wetlands, rivers and lakes. Outside the lab, Jack enjoys running, playing Mario Cart, and traveling to Montana to exploring the backcountry.</p>
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          <img src="/assets/img/blog/team-boyle.png" alt="Jack">
+          <h2>Jack Boyle</h2>
+          <p class="title">MS Student</p>
+          <p class="flip-prompt">(Hover to learn more)</p>
+        </div>
+        <div class="flip-card-back">
+          <h2>Jack Boyle</h2>
+          <p class="title">MS Student</p>
+          <p>Jack is a MS student in the lab. He holds a bachelors degree in Environmental Science from the University of Notre Dame, where he studied limnology (the study of lakes) and conducted studies at a field station in Northern Wisconsin. Additionally, he spent time studying the effects of PFAS biomagnification within Lake Michigan prey fish. At UVA he studies the effects of nitrogen retention in wetlands, rivers and lakes. Outside the lab, Jack enjoys running, playing Mario Cart, and traveling to Montana to exploring the backcountry.</p>
+        </div>
       </div>
     </div>
   </div>
@@ -95,23 +154,37 @@ html {
 
 <div class="row">
   <div class="column">
-    <div class="card">
-      <img src="/assets/img/blog/team-shaffer.png" alt="Owen" style="width:100%">
-      <div class="container">
-        <h2>Owen Shaffer</h2>
-        <p class="title">Undergrad DMP Thesis</p>
-        <p>Quantifying the effects of Clean Water Act regulations on wetlands and water quality.</p>
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          <img src="/assets/img/blog/team-shaffer.png" alt="Owen">
+          <h2>Owen Shaffer</h2>
+          <p class="title">Undergrad DMP Thesis</p>
+          <p class="flip-prompt">(Hover to learn more)</p>
+        </div>
+        <div class="flip-card-back">
+          <h2>Owen Shaffer</h2>
+          <p class="title">Undergrad DMP Thesis</p>
+          <p>Quantifying the effects of Clean Water Act regulations on wetlands and water quality.</p>
+        </div>
       </div>
     </div>
   </div>
   
   <div class="column">
-    <div class="card">
-      <img src="" alt="Katie" style="width:100%">
-      <div class="container">
-        <h2>Katie Glazier</h2>
-        <p class="title">Undergraduate Research Assistant</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          <img src="" alt="Katie" style="background-color: #eee;">
+          <h2>Katie Glazier</h2>
+          <p class="title">Undergraduate Research Assistant</p>
+          <p class="flip-prompt">(Hover to learn more)</p>
+        </div>
+        <div class="flip-card-back">
+          <h2>Katie Glazier</h2>
+          <p class="title">Undergraduate Research Assistant</p>
+          <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        </div>
       </div>
     </div>
   </div>
@@ -123,8 +196,8 @@ html {
 
 ## Lab Alumni!
 
-Owen Shaffer (Spring 2025). Distinguished Major Program Thesis. The Outsized Role of Vulnerable Wetlands in 
-Nitrogen Cycling Across the US in the Context of Changing Clean Water Act Protections.
+-   Owen Shaffer (Spring 2025). Distinguished Major Program Thesis. The outsized role of vulnerable wetlands in 
+nitrogen cycling across the US in the context of changing Clean Water Act protections.
  
 
 

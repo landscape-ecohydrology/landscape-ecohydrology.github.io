@@ -8,7 +8,7 @@ sitemap: false
 permalink: /teaching/
 ---
 
-I will be teaching the following courses on rotation at the University of Virginia - future courses are tentative:
+I will be teaching the following courses on rotation at the University of Virginia:
 
 -   EVSC 1600: Water on Earth (scheduled for Fall 2025, [syllabus here](https://landscape-ecohydrology.github.io/assets/pdf/EVSC%201600%20-%20Syllabus.pdf))
 
@@ -20,7 +20,7 @@ I will be teaching the following courses on rotation at the University of Virgin
 
 -   EVHY 5559: Watershed Restoration (TBD; [syllabus here](https://landscape-ecohydrology.github.io/assets/pdf/EVHY%205559%20-%20Watershed%20Restoration%20Syllabus%20-%20S25%20-%20DRAFT.pdf))
 
--   EVHY 7559: Computational Methods for Hydrologic Science (scheduled for Spring 2026)
+-   EVHY 7559: Computational Methods in Hydrology (scheduled for Spring 2026)
 
 Course codes and syllabi will be updated prior to the first full offering of the course.
 

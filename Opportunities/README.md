@@ -10,7 +10,7 @@ permalink: /opportunities/
 
 <img src="/assets/img/blog/nature-aerial-photography-natural-landscape-reflection-water-resources-natural-environment-1503703-pxhere.com.jpg" style="float:right;width:40%;height:auto"/>
 
-## The Landscape Ecohydrology Group is currently not accepting applications for graduate students for Fall 2024
+## The Landscape Ecohydrology Group is currently not accepting applications for graduate students for Fall 2025
 
 [Graduate Positions](#graduate-positions)
 
@@ -53,12 +53,12 @@ Formal applications to the University of Virginia are typically due \~January 15
 
 ## Undergraduate Opportunities {#undergraduate-opportunities}
 
-Gaining research opportunities is a great way to apply skills and concepts from coursework towards complex problems. Research experience is also helpful in determining if you want to go to graduate school.
+Gaining research opportunities is a great way to apply skills and concepts from coursework towards complex problems. Research experience is also helpful in determining if you want to go to graduate school or pursue a career in research.
 
 Undergraduate researchers can join the Landscape Ecohydrology group in two ways:
 
 -   as a paid research assistant. Depending on the current needs of the group, tasks will be in support of the current research activities and can be on or more of the following: literature review, data processing, data visualization, running models/code, exploratory data analysis, etc. Some familiarity with a computational language (R, Python, MATLAB, etc.) is recommended, but further guidance will be provided.
 
--   as part of an academic course/thesis. You can either work on a project in support of current research activities in the group, OR work on an independent project. Students wishing to pursue an indpendent project (such as for the Distinguished Majors Program) or continue their work into a student thesis are highly encouraged and should contact Dr. Cheng early in advance to discuss possible research projects.
+-   as part of an academic course/thesis. You can either work on a project in support of current research activities in the group, OR work on an independent project. Students wishing to pursue an independent project (such as for the Distinguished Majors Program) or continue their work into a student thesis are highly encouraged and should contact Dr. Cheng early in advance to discuss possible research projects.
 
-Undergraduate research positions will be available starting Spring 2024. Interested students should contact Dr. Cheng with the subject line ""Prospective undergraduate student - \<Your name\>".
+Undergraduate research positions will be periodically available. Interested students should contact Dr. Cheng with the subject line ""Prospective undergraduate student - \<Your name\>".

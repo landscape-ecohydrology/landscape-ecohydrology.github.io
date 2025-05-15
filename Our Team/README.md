@@ -87,8 +87,7 @@ html {
 
 <br>
 
-:::::::: row
-::: column
+
         
 <div class="card">
   <img src="/assets/img/blog/team-tolentino2.jpg" alt="Meara" style="width:100%">
@@ -99,9 +98,7 @@ html {
   </div>
 </div>
 
-:::
 
-::: column
         
 <div class="card">
   <img src="/assets/img/blog/team-boyle.png" alt="Jack" style="width:100%">
@@ -112,9 +109,7 @@ html {
   </div>
 </div>
 
-:::
 
-::: column
         
 <div class="card">
   <img src="/assets/img/blog/team-shaffer.png" alt="Owen" style="width:100%">
@@ -125,10 +120,7 @@ html {
   </div>
 </div>
 
-:::
 
-:::: row
-::: column
         
 <div class="card">
   <img src="" alt="Katie" style="width:100%">
@@ -139,6 +131,4 @@ html {
   </div>
 </div>
 
-:::
-::::
-::::::::
+

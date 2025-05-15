@@ -34,7 +34,7 @@ html {
 /* The flip card container */
 .flip-card {
   background-color: transparent;
-  height: 400px;
+  height: 420px; /* Increased height slightly */
   perspective: 1000px; /* 3D effect */
 }
 
@@ -60,7 +60,6 @@ html {
   height: 100%;
   -webkit-backface-visibility: hidden; /* Safari */
   backface-visibility: hidden;
-  overflow: hidden;
 }
 
 /* Style the front side */
@@ -71,13 +70,17 @@ html {
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  padding-bottom: 10px;
+  padding-bottom: 15px;
 }
 
 .flip-card-front img {
   width: 100%;
-  height: 300px;
+  height: 250px; /* Reduced height of image */
   object-fit: cover;
+}
+
+.flip-card-front h2 {
+  margin: 10px 0 5px;
 }
 
 /* Style the back side */
@@ -91,7 +94,7 @@ html {
 
 .title {
   color: grey;
-  margin-top: 0;
+  margin: 0 0 10px 0; /* Reduced margin */
 }
 
 .row:after {
@@ -111,7 +114,7 @@ html {
 </head>
 <body>
 <h2>Meet The Team</h2>
-<p>Hover over a card to learn more about our team members.</p>
+<p>Hover or click on a card to learn more about our team members.</p>
 <br>
 
 <div class="row">
@@ -122,7 +125,7 @@ html {
           <img src="/assets/img/blog/team-tolentino2.jpg" alt="Meara">
           <h2>Meara Tolentino</h2>
           <p class="title">PhD Student</p>
-          <p class="flip-prompt">(Hover to learn more)</p>
+          <p class="flip-prompt">(Hover/click to learn more)</p>
         </div>
         <div class="flip-card-back">
           <h2>Meara Tolentino</h2>
@@ -140,7 +143,7 @@ html {
           <img src="/assets/img/blog/team-boyle.png" alt="Jack">
           <h2>Jack Boyle</h2>
           <p class="title">MS Student</p>
-          <p class="flip-prompt">(Hover to learn more)</p>
+          <p class="flip-prompt">(Hover/click to learn more)</p>
         </div>
         <div class="flip-card-back">
           <h2>Jack Boyle</h2>
@@ -160,7 +163,7 @@ html {
           <img src="/assets/img/blog/team-shaffer.png" alt="Owen">
           <h2>Owen Shaffer</h2>
           <p class="title">Undergrad DMP Thesis</p>
-          <p class="flip-prompt">(Hover to learn more)</p>
+          <p class="flip-prompt">(Hover/click to learn more)</p>
         </div>
         <div class="flip-card-back">
           <h2>Owen Shaffer</h2>
@@ -178,7 +181,7 @@ html {
           <img src="" alt="Katie" style="background-color: #eee;">
           <h2>Katie Glazier</h2>
           <p class="title">Undergraduate Research Assistant</p>
-          <p class="flip-prompt">(Hover to learn more)</p>
+          <p class="flip-prompt">(Hover/click to learn more)</p>
         </div>
         <div class="flip-card-back">
           <h2>Katie Glazier</h2>
@@ -189,6 +192,23 @@ html {
     </div>
   </div>
 </div>
+
+<!-- Add JavaScript for click/tap functionality -->
+<script>
+  // Add click/tap functionality for mobile users
+  document.querySelectorAll('.flip-card').forEach(card => {
+    card.addEventListener('click', function() {
+      this.querySelector('.flip-card-inner').classList.toggle('flipped');
+    });
+  });
+</script>
+
+<style>
+  /* Add this to your existing CSS */
+  .flipped {
+    transform: rotateY(180deg);
+  }
+</style>
 </body>
 </html>
 

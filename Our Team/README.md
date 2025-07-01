@@ -7,7 +7,7 @@ hide_description: true
 sitemap: false
 permalink: /team/
 ---
-
+<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -49,12 +49,7 @@ html {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
 
-/* Flip on hover when not clicked */
-.flip-card:hover .flip-card-inner:not(.clicked) {
-  transform: rotateY(180deg);
-}
-
-/* Keep flipped when clicked */
+/* Flip only when clicked */
 .flip-card-inner.clicked {
   transform: rotateY(180deg);
 }
@@ -117,7 +112,7 @@ html {
   color: #666;
 }
 
-/* Visual indicator for clicked state */
+/* Visual indicator for flipped state */
 .flip-card-inner.clicked .flip-card-back::after {
   content: "Click to flip back";
   position: absolute;
@@ -131,7 +126,7 @@ html {
 </head>
 <body>
 <h2>Meet The Team</h2>
-<p>Hover on a card to preview, click to lock the flip, click again to flip back.</p>
+<p>Click on a card to flip and see more details. Click again to flip back.</p>
 <br>
 
 <div class="row">
@@ -219,7 +214,6 @@ document.querySelectorAll('.flip-card').forEach(card => {
 
 </body>
 </html>
-
 
 
 ## Lab Alumni!

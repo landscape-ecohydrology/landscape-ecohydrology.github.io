@@ -36,6 +36,7 @@ html {
   background-color: transparent;
   height: 420px; /* Increased height slightly */
   perspective: 1000px; /* 3D effect */
+  cursor: pointer; /* Show it's clickable */
 }
 
 /* This container positions the front and back sides */
@@ -48,8 +49,13 @@ html {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
 
-/* Do the horizontal flip when hovering */
-.flip-card:hover .flip-card-inner {
+/* Flip on hover when not clicked */
+.flip-card:hover .flip-card-inner:not(.clicked) {
+  transform: rotateY(180deg);
+}
+
+/* Keep flipped when clicked */
+.flip-card-inner.clicked {
   transform: rotateY(180deg);
 }
 
@@ -110,11 +116,22 @@ html {
   margin-top: 5px;
   color: #666;
 }
+
+/* Visual indicator for clicked state */
+.flip-card-inner.clicked .flip-card-back::after {
+  content: "Click to flip back";
+  position: absolute;
+  bottom: 5px;
+  right: 10px;
+  font-size: 10px;
+  color: #999;
+  font-style: italic;
+}
 </style>
 </head>
 <body>
 <h2>Meet The Team</h2>
-<p>Hover or click on a card to learn more about our team members.</p>
+<p>Hover on a card to preview, click to lock the flip, click again to flip back.</p>
 <br>
 
 <div class="row">
@@ -189,22 +206,17 @@ html {
   </div>
 </div>
 
-<!-- Add JavaScript for click/tap functionality -->
 <script>
-  // Add click/tap functionality for mobile users
-  document.querySelectorAll('.flip-card').forEach(card => {
-    card.addEventListener('click', function() {
-      this.querySelector('.flip-card-inner').classList.toggle('flipped');
-    });
+document.querySelectorAll('.flip-card').forEach(card => {
+  const inner = card.querySelector('.flip-card-inner');
+  
+  card.addEventListener('click', function(e) {
+    e.preventDefault();
+    inner.classList.toggle('clicked');
   });
+});
 </script>
 
-<style>
-  /* Add this to your existing CSS */
-  .flipped {
-    transform: rotateY(180deg);
-  }
-</style>
 </body>
 </html>
 

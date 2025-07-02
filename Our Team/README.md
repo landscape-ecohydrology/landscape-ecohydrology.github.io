@@ -141,7 +141,9 @@ html {
         <div class="flip-card-back">
           <h2>Meara Tolentino</h2>
           <p class="title">PhD Student</p>
-          <p>Meara is a PhD student in the lab studying carbon dynamics across the terrestrial-coastal continuum.</p>
+          <p>Meara’s research focuses on understanding carbon dynamics across ecosystems, with an emphasis on the terrestrial–aquatic interface. She holds a Bachelor's degree in Physics and a Master’s in Environmental Science from the University of the Philippines. As an undergraduate, she conducted research on light structures and classical entanglement in a photonics lab. Applying her quantitative background to environmental challenges, she transitioned into environmental science, where her master’s work used satellite remote sensing to examine how ocean frontal features influence fishing activity in Philippine waters. She later contributed to marine field research, including hydroacoustic surveys to estimate single fish species biomass.
+At UVA, Meara is a PhD student in the lab currently studying organic carbon across the terrestrial–coastal continuum, using remote sensing and modeling to explore coastal wetland processes.
+Outside of research, she enjoys strength training, cooking & baking, badminton, and hiking.</p>
         </div>
       </div>
     </div>

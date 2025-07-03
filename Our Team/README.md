@@ -172,14 +172,14 @@ Outside of research, she enjoys strength training, cooking & baking, badminton, 
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
-          <img src="/assets/img/blog/team-shaffer.png" alt="Owen">
-          <h2>Owen Shaffer</h2>
-          <p class="title">Undergrad DMP Thesis</p>
+          <img src="/assets/img/blog/anon.webp" alt="placeholder">
+          <h2>Michelle Nguyen</h2>
+          <p class="title">Research Assistant</p>
         </div>
         <div class="flip-card-back">
-          <h2>Owen Shaffer</h2>
-          <p class="title">Undergrad DMP Thesis</p>
-          <p>Quantifying the effects of Clean Water Act regulations on wetlands and water quality.</p>
+          <h2>Michelle Nguyen</h2>
+          <p class="title">Research Assistant</p>
+          <p>Under Construction!</p>
         </div>
       </div>
     </div>
@@ -189,14 +189,14 @@ Outside of research, she enjoys strength training, cooking & baking, badminton, 
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
-          <img src="" alt="Katie" style="background-color: #eee;">
+           <img src="/assets/img/blog/anon.webp" alt="placeholder">
           <h2>Katie Glazier</h2>
           <p class="title">Undergraduate Research Assistant</p>
         </div>
         <div class="flip-card-back">
           <h2>Katie Glazier</h2>
           <p class="title">Undergraduate Research Assistant</p>
-          <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+          <p>Under construction!</p>
         </div>
       </div>
     </div>

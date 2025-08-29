@@ -207,11 +207,11 @@ html {
       <div class="flip-card-inner">
         <div class="flip-card-front">
            <img src="/assets/img/blog/anon.webp" alt="placeholder">
-          <h2>Katie Glazier</h2>
+          <h2>Olivia Smith</h2>
           <p class="title">Undergraduate Research Assistant</p>
         </div>
         <div class="flip-card-back">
-          <h2>Katie Glazier</h2>
+          <h2>Olivia Smith</h2>
           <p class="title">Undergraduate Research Assistant</p>
           <p>Under construction!</p>
         </div>
@@ -237,6 +237,7 @@ document.querySelectorAll('.flip-card').forEach(card => {
 
 ## Lab Alumni!
 
+-   Katie Glazier (Spring 2025). Undergraduate Researcher. 
 -   Owen Shaffer (Spring 2025). Distinguished Major Program Thesis. The outsized role of vulnerable wetlands in 
 nitrogen cycling across the US in the context of changing Clean Water Act protections.
  

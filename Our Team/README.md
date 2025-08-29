@@ -231,15 +231,19 @@ document.querySelectorAll('.flip-card').forEach(card => {
 });
 </script>
 
+
+
+<h2>Lab Alumni!</h2>
+<p>-   Katie Glazier (Spring 2025). Undergraduate Researcher. </p>
+<p>-   Owen Shaffer (Spring 2025). Distinguished Major Program Thesis. The outsized role of vulnerable wetlands in 
+nitrogen cycling across the US in the context of changing Clean Water Act protections. </p>
+
+
 </body>
 </html>
 
 
-## Lab Alumni!
 
--   Katie Glazier (Spring 2025). Undergraduate Researcher. 
--   Owen Shaffer (Spring 2025). Distinguished Major Program Thesis. The outsized role of vulnerable wetlands in 
-nitrogen cycling across the US in the context of changing Clean Water Act protections.
  
 
 

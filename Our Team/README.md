@@ -153,17 +153,35 @@ html {
         <div class="flip-card-front">
           <img src="/assets/img/blog/team-boyle.png" alt="Jack">
           <h2>Jack Boyle</h2>
-          <p class="title">MS Student</p>
+          <p class="title">PhD Student</p>
         </div>
         <div class="flip-card-back">
           <h2>Jack Boyle</h2>
-          <p class="title">MS Student</p>
-          <p>Jack is a MS student in the lab. He holds a bachelors degree in Environmental Science from the University of Notre Dame, where he studied limnology (the study of lakes) and conducted studies at a field station in Northern Wisconsin. Additionally, he spent time studying the effects of PFAS biomagnification within Lake Michigan prey fish. At UVA he studies the effects of nitrogen retention in wetlands, rivers and lakes. Outside the lab, Jack enjoys running, playing Mario Cart, and traveling to Montana to exploring the backcountry.</p>
+          <p class="title">PhD Student</p>
+          <p>Jack is a PhD student in the lab. He holds a bachelors degree in Environmental Science from the University of Notre Dame, where he studied limnology (the study of lakes) and conducted studies at a field station in Northern Wisconsin. Additionally, he spent time studying the effects of PFAS biomagnification within Lake Michigan prey fish. At UVA he studies the effects of nitrogen retention in wetlands, rivers and lakes. Outside the lab, Jack enjoys running, playing Mario Cart, and traveling to Montana to exploring the backcountry.</p>
         </div>
       </div>
     </div>
   </div>
 </div>
+
+  <div class="row">
+  <div class="column">
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          <img src="/assets/img/blog/anon.webp" alt="placeholder">
+          <h2>Lucas Raymond</h2>
+          <p class="title">PhD Student</p>
+        </div>
+        <div class="flip-card-back">
+          <h2>Lucas Raymond</h2>
+          <p class="title">PhD Student</p>
+          <p>Under Construction!</p>
+        </div>
+      </div>
+    </div>
+  </div>
 
 <div class="row">
   <div class="column">
@@ -172,16 +190,17 @@ html {
         <div class="flip-card-front">
           <img src="/assets/img/blog/anon.webp" alt="placeholder">
           <h2>Michelle Nguyen</h2>
-          <p class="title">Research Assistant</p>
+          <p class="title">MS Student</p>
         </div>
         <div class="flip-card-back">
           <h2>Michelle Nguyen</h2>
-          <p class="title">Research Assistant</p>
+          <p class="title">MS Student</p>
           <p>Under Construction!</p>
         </div>
       </div>
     </div>
   </div>
+  
   
   <div class="column">
     <div class="flip-card">

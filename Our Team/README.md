@@ -135,7 +135,7 @@ html {
       <div class="flip-card-inner">
         <div class="flip-card-front">
           <img src="/assets/img/blog/team-tolentino2.jpg" alt="Meara">
-          <h2>Meara Tolentino</h2>
+          <h2>M. Tolentino</h2>
           <p class="title">PhD Student</p>
         </div>
         <div class="flip-card-back">

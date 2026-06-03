@@ -133,7 +133,6 @@ html {
 .pi-bio h2 {
   margin-top: 0;
   margin-bottom: 5px;
-  color: #111;
 }
 
 .pi-bio .title {
@@ -148,9 +147,14 @@ html {
 /* Stack PI photo and bio on smaller screens */
 @media screen and (max-width: 650px) {
   .pi-section {
-    flex-direction: column;
-    margin-left: 15px;
-    margin-right: 15px;
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+    margin: 30px 15px 50px 15px;
+    padding: 0;
+    background-color: transparent;
+    color: inherit;
+    box-shadow: none;
   }
 
   .pi-photo {

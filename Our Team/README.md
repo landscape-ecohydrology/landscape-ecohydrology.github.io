@@ -7,7 +7,7 @@ hide_description: true
 sitemap: false
 permalink: /team/
 ---
-```html
+
 <style>
 html {
   box-sizing: border-box;
@@ -106,7 +106,80 @@ html {
   color: #999;
   font-style: italic;
 }
+
+/* PI biography section: static, full-width */
+.pi-section {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  margin: 30px 15px 50px 15px;
+  padding: 25px;
+  background-color: #f9f9f9;
+  color: #333;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.pi-photo {
+  width: 240px;
+  height: 240px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.pi-bio {
+  flex: 1;
+}
+
+.pi-bio h2 {
+  margin-top: 0;
+  margin-bottom: 5px;
+  color: #111;
+}
+
+.pi-bio .title {
+  color: grey;
+  margin-bottom: 15px;
+}
+
+.pi-bio p {
+  margin-bottom: 12px;
+}
+
+/* Stack PI photo and bio on smaller screens */
+@media screen and (max-width: 650px) {
+  .pi-section {
+    flex-direction: column;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+
+  .pi-photo {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1 / 1;
+  }
+}
+
 </style>
+
+<div class="pi-section">
+  <img src="/assets/img/blog/team-cheng.jpg" alt="Frederick Cheng" class="pi-photo">
+
+  <div class="pi-bio">
+    <h2>Dr. Frederick Cheng</h2>
+    <p class="title">Principal Investigator</p>
+
+    <p>
+      I am an assistant professor in critical zone hydrology in the <a href="https://evsc.as.virginia.edu/">Department of Environmental Sciences at the University of Virginia</a>. I was previously a postdoctoral researcher in the <a href="https://warnercnr.colostate.edu/ess/">Department of Ecosystem Science and Sustainability</a> at the <a href="https://www.colostate.edu/">Colorado State University.
+    </p>
+    <p>
+      My research interest lies in the sustainable management of our water resources by exploring the interactions between hydrological and biogeochemical processes across different scales. Topics of particular interest are: modelling groundwater-surface water interactions, ecohydrological modelling across scales, contaminant fate in watersheds.
+    </p>
+    <p>
+      Outside of the lab, I enjoy competitive ballroom dancing, bouldering, and all sorts of board games! 
+    </p>
+  </div>
+</div>
 
 <h2>Meet The Team</h2>
 
@@ -175,7 +248,7 @@ html {
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
-          <img src="/assets/img/blog/team-michelle.png" alt="Michelle">
+          <img src="/assets/img/blog/team-michelle.jpeg" alt="Michelle">
           <h2>Michelle Nguyen</h2>
           <p class="title">MS Student</p>
         </div>

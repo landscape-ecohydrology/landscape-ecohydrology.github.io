@@ -3,7 +3,6 @@ layout: page
 title: The Landscape Ecohydrology Group
 description: Research website for Frederick Cheng at the University of Virginia
 no_link_title: false
-hide_title: true
 hide_description: true
 no_excerpt: false
 hide_image: false
@@ -11,6 +10,14 @@ cover: true
 ---
 
 <style>
+/* Hide the default page title so the hero banner title is not redundant */
+.content h1:first-of-type,
+.page h1:first-of-type,
+main h1:first-of-type {
+  display: none;
+}
+
+/* Hero banner */
 .home-hero {
   position: relative;
   min-height: 360px;
@@ -20,8 +27,8 @@ cover: true
   align-items: flex-end;
   background-image:
     linear-gradient(
-      rgba(0, 0, 0, 0.10),
-      rgba(0, 0, 0, 0.55)
+      rgba(0, 0, 0, 0.15),
+      rgba(0, 0, 0, 0.70)
     ),
     url("/assets/img/blog/banner.jpg");
   background-size: cover;
@@ -30,17 +37,24 @@ cover: true
 }
 
 .home-hero-content {
-  max-width: 720px;
+  max-width: 780px;
+}
+
+.home-hero h2 {
+  color: white;
+  margin-bottom: 0.75rem;
+  font-size: 2.2rem;
+  line-height: 1.15;
 }
 
 .home-hero p {
   color: white;
-  font-size: 1.15rem;
+  font-size: 1.05rem;
   line-height: 1.6;
   margin-bottom: 0;
-  font-weight: 600;
 }
 
+/* Intro section */
 .home-intro {
   margin-bottom: 2.5rem;
 }
@@ -59,6 +73,7 @@ cover: true
   text-decoration: underline;
 }
 
+/* Recent team news */
 .team-news {
   margin-top: 3rem;
 }
@@ -80,12 +95,17 @@ cover: true
   text-decoration: underline;
 }
 
+/* Mobile layout */
 @media screen and (max-width: 650px) {
   .home-hero {
     min-height: 260px;
     margin-left: 0;
     margin-right: 0;
     padding: 1.5rem;
+  }
+
+  .home-hero h2 {
+    font-size: 1.7rem;
   }
 
   .home-hero p {
@@ -101,8 +121,9 @@ cover: true
 
 <div class="home-hero">
   <div class="home-hero-content">
+    <h2>The Landscape Ecohydrology Group at UVA</h2>
     <p>
-      Linking hydrology, biogeochemistry, and ecosystem function across wetlands, watersheds, and terrestrial-aquatic interfaces.
+      We study how hydrology and biogeochemistry interact across wetlands, watersheds, and other terrestrial-aquatic interfaces.
     </p>
   </div>
 </div>

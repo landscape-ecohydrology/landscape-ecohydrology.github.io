@@ -2,14 +2,67 @@
 layout: page
 title: The Landscape Ecohydrology Group
 description: Research website for Frederick Cheng at the University of Virginia
-no_link_title: false 
+no_link_title: false
 hide_description: true
-no_excerpt: false 
+no_excerpt: false
 hide_image: false
 cover: true
----
+-----------
 
 <style>
+.home-hero {
+  position: relative;
+  min-height: 330px;
+  margin: 1.5rem 0 2.5rem 0;
+  padding: 3rem;
+  display: flex;
+  align-items: flex-end;
+  background-image:
+    linear-gradient(
+      rgba(0, 0, 0, 0.25),
+      rgba(0, 0, 0, 0.70)
+    ),
+    url("/assets/img/blog/banner.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+.home-hero-content {
+  max-width: 760px;
+}
+
+.home-hero h2 {
+  color: white;
+  margin-bottom: 0.75rem;
+  font-size: 2.2rem;
+}
+
+.home-hero p {
+  color: white;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  margin-bottom: 0;
+}
+
+.home-intro {
+  margin-bottom: 2.5rem;
+}
+
+.home-intro p {
+  line-height: 1.65;
+}
+
+.home-links {
+  margin-top: 1.5rem;
+}
+
+.home-links a {
+  margin-right: 1.25rem;
+  white-space: nowrap;
+  text-decoration: underline;
+}
+
 .team-news {
   margin-top: 3rem;
 }
@@ -30,34 +83,70 @@ cover: true
 .news-entry a {
   text-decoration: underline;
 }
+
+@media screen and (max-width: 650px) {
+  .home-hero {
+    min-height: 260px;
+    padding: 1.5rem;
+  }
+
+  .home-hero h2 {
+    font-size: 1.7rem;
+  }
+
+  .home-links a {
+    display: inline-block;
+    margin-bottom: 0.5rem;
+  }
+}
 </style>
 
-<p>
-  The Landscape Ecohydrology Group at the University of Virginia is focused on how we can manage the natural and built infrastructure in the environment to protect and sustainably use our water resources. Our current work explores the interactions between hydrologic processes and biogeochemical cycles across terrestrial-aquatic interfaces, such as wetlands, the vadose zone, and the hyporheic zone, from site to watershed to continental scales using a combination of data synthesis, numerical modelling, remote sensing, and machine learning.
-</p>
+<div class="home-hero">
+  <div class="home-hero-content">
+    <h2>The Landscape Ecohydrology Group at UVA</h2>
+    <p>
+      We study how hydrology and biogeochemistry interact across wetlands, watersheds, and other terrestrial-aquatic interfaces.
+    </p>
+  </div>
+</div>
 
-<p>
-  We are especially interested in how landscape structure, hydrologic connectivity, and environmental change shape water quality, nutrient cycling, ecosystem function, and the performance of nature-based solutions.
-</p>
+<div class="home-intro">
+
+  <p>
+    The Landscape Ecohydrology Group at the University of Virginia is focused on how we can manage the natural and built infrastructure in the environment to protect and sustainably use our water resources. Our current work explores the interactions between hydrologic processes and biogeochemical cycles across terrestrial-aquatic interfaces, such as wetlands, the vadose zone, and the hyporheic zone, from site to watershed to continental scales using a combination of data synthesis, numerical modelling, remote sensing, and machine learning.
+  </p>
+
+  <p>
+    We are especially interested in how landscape structure, hydrologic connectivity, and environmental change shape water quality, nutrient cycling, ecosystem function, and the performance of nature-based solutions.
+  </p>
+
+  <div class="home-links">
+    <a href="/research/">Research</a>
+    <a href="/publications/">Publications</a>
+    <a href="/team/">Our Team</a>
+    <a href="/opportunities/">Opportunities</a>
+  </div>
+
+</div>
 
 <div class="team-news">
 
   <h2>Recent Team News</h2>
 
   <p class="news-entry">
-    <strong>June 2026</strong> - Congrats Jack for being selected as a Environmental Institute Futures Fellow!
+    <strong>June 2026</strong> - Congrats to Jack for being selected as an Environmental Institute Futures Fellow!
   </p>
 
   <p class="news-entry">
-    <strong>June 2026</strong> - Jack and Fred travelled to Montreal, Canada, to present at the <a href="https://www.aslo.org/aslo-sil-2026/">2026 ASLO-SIL Joint Meeting</a>!
+    <strong>June 2026</strong> - Jack and Fred traveled to Montreal, Canada, to present at the <a href="https://www.aslo.org/aslo-sil-2026/">2026 ASLO-SIL Joint Meeting</a>!
   </p>
 
   <p class="news-entry">
     <strong>May 2026</strong> - Lucas presented his work at the Virginia Association of Wetland Professionals Annual Meeting and came in second place for the student presentations!
   </p>
-  
+
   <p class="news-entry">
-    <strong>May 2026</strong> - Jack recieved the Graduate Award in Hydrology and Meara the Ellison-Edmonson Award for interdisciplinary research at the annual department awards ceremony! Congrats! 
+    <strong>May 2026</strong> - Jack received the Graduate Award in Hydrology, and Meara received the Ellison-Edmonson Award for interdisciplinary research at the annual department awards ceremony. Congrats!
   </p>
 
 </div>

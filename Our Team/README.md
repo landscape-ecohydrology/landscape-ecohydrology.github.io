@@ -1,4 +1,13 @@
-```html
+---
+layout: page
+title: Our Team
+description: >
+  Our current lab group!
+hide_description: true
+sitemap: false
+permalink: /team/
+---
+
 <style>
 html {
   box-sizing: border-box;

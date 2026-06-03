@@ -1,15 +1,3 @@
-ChatGPT
-
-Pasted text(5).txt
-Document
-i tried to update my gitpage website, but when i pushed it, it broke the page:
-
-help me find the error. attached are what it should look like, but what it's ending up now
-
-The page is breaking because the file is mixing Quarto/RMarkdown syntax with a Jekyll/GitHub Pages page.
-
-The visible text in the broken page gives it away:
-
 ```{=html}
 :::
 :::

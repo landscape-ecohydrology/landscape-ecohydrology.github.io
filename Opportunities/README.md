@@ -10,7 +10,7 @@ permalink: /opportunities/
 
 <img src="/assets/img/blog/nature-aerial-photography-natural-landscape-reflection-water-resources-natural-environment-1503703-pxhere.com.jpg" style="float:right;width:40%;height:auto"/>
 
-## The Landscape Ecohydrology Group is currently not accepting applications for graduate students for Fall 2025
+## The Landscape Ecohydrology Group is currently not accepting applications for graduate students for Fall 2026
 
 [Graduate Positions](#graduate-positions)
 

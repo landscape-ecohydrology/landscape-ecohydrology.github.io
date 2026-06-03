@@ -107,54 +107,53 @@ html {
   font-style: italic;
 }
 
-/* PI biography section: static, full-width */
+/* PI biography section: static, full-width, theme-responsive */
 .pi-section {
   display: flex;
   align-items: flex-start;
   gap: 30px;
   margin: 30px 15px 50px 15px;
-  padding: 25px;
-  background-color: #f9f9f9;
-  color: #333;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  padding: 0;
+  background: transparent;
+  color: inherit;
+  box-shadow: none;
 }
 
 .pi-photo {
-  width: 240px;
-  height: 240px;
+  width: 260px;
+  height: 260px;
   object-fit: cover;
   flex-shrink: 0;
 }
 
 .pi-bio {
   flex: 1;
+  color: inherit;
 }
 
 .pi-bio h2 {
   margin-top: 0;
   margin-bottom: 5px;
+  color: inherit;
 }
 
 .pi-bio .title {
-  color: grey;
+  color: inherit;
+  opacity: 0.7;
   margin-bottom: 15px;
 }
 
 .pi-bio p {
   margin-bottom: 12px;
+  color: inherit;
 }
 
 /* Stack PI photo and bio on smaller screens */
 @media screen and (max-width: 650px) {
   .pi-section {
-    display: flex;
-    align-items: flex-start;
-    gap: 30px;
-    margin: 30px 15px 50px 15px;
-    padding: 0;
-    background-color: transparent;
-    color: inherit;
-    box-shadow: none;
+    flex-direction: column;
+    margin-left: 15px;
+    margin-right: 15px;
   }
 
   .pi-photo {
@@ -174,13 +173,20 @@ html {
     <p class="title">Principal Investigator</p>
 
     <p>
-      I am an assistant professor in critical zone hydrology in the <a href="https://evsc.as.virginia.edu/">Department of Environmental Sciences at the University of Virginia.</a> I was previously a postdoctoral researcher in the Department of Ecosystem Science and Sustainability at Colorado State University.
+      I am an assistant professor in critical zone hydrology in the
+      <a href="https://evsc.as.virginia.edu/">Department of Environmental Sciences at the University of Virginia</a>.
+      I was previously a postdoctoral researcher in the Department of Ecosystem Science and Sustainability at
+      Colorado State University.
     </p>
+
     <p>
-      My research interest lies in the sustainable management of our water resources by exploring the interactions between hydrological and biogeochemical processes across different scales. Topics of particular interest are: modelling groundwater-surface water interactions, ecohydrological modelling across scales, contaminant fate in watersheds.
+      My research interests lie in the sustainable management of water resources by exploring interactions between
+      hydrological and biogeochemical processes across scales. Topics of particular interest include modeling
+      groundwater-surface water interactions, ecohydrological modeling across scales, and contaminant fate in watersheds.
     </p>
+
     <p>
-      Outside of the lab, I enjoy competitive ballroom dancing, bouldering, and all sorts of board games! 
+      Outside of the lab, I enjoy competitive ballroom dancing, bouldering, and all sorts of board games!
     </p>
   </div>
 </div>

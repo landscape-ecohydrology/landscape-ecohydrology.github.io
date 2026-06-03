@@ -1,18 +1,3 @@
-```{=html}
-:::
-:::
-
-
-Those are being printed literally instead of being interpreted. In your uploaded file, the CSS and JavaScript are inside Quarto raw-HTML fences, and the layout uses Quarto-style div syntax like `::::: row` / `::: column` rather than actual HTML. GitHub Pages/Jekyll is not processing those as Quarto, so they show up as text and disrupt the layout. :contentReference[oaicite:0]{index=0}
-
-The main fixes are:
-
-1. **Remove all** ```` ```{=html} ```` and closing triple backticks around `<style>` and `<script>`.
-2. **Replace** `::::: row`, `::: column`, and similar blocks with real HTML: `<div class="row">`, `<div class="column">`, and closing `</div>`.
-3. Fix the row structure. You start a new row for Lucas, but then open another row for Michelle before properly closing the Lucas row. That nesting is likely also contributing to the layout issue.
-
-Here is the corrected structure you can use. Keep your YAML front matter at the top, then replace the body content with this pattern:
-
 ```html
 <style>
 html {

@@ -163,14 +163,14 @@ html {
 </style>
 
 <div class="pi-section">
-  <img src="/assets/img/blog/team-cheng.jpg" alt="Frederick Cheng" class="pi-photo">
+  <img src="/assets/img/blog/1456936992.png" alt="Frederick Cheng" class="pi-photo">
 
   <div class="pi-bio">
     <h2>Dr. Frederick Cheng</h2>
     <p class="title">Principal Investigator</p>
 
     <p>
-      I am an assistant professor in critical zone hydrology in the <a href="https://evsc.as.virginia.edu/">Department of Environmental Sciences at the University of Virginia</a>. I was previously a postdoctoral researcher in the <a href="https://warnercnr.colostate.edu/ess/">Department of Ecosystem Science and Sustainability</a> at the <a href="https://www.colostate.edu/">Colorado State University.
+      I am an assistant professor in critical zone hydrology in the <a href="https://evsc.as.virginia.edu/">Department of Environmental Sciences at the University of Virginia</a>. I was previously a postdoctoral researcher in the <a href="https://warnercnr.colostate.edu/ess/">Department of Ecosystem Science and Sustainability</a> at the <a href="https://www.colostate.edu/">Colorado State University</a>.
     </p>
     <p>
       My research interest lies in the sustainable management of our water resources by exploring the interactions between hydrological and biogeochemical processes across different scales. Topics of particular interest are: modelling groundwater-surface water interactions, ecohydrological modelling across scales, contaminant fate in watersheds.

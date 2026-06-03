@@ -174,7 +174,7 @@ html {
     <p class="title">Principal Investigator</p>
 
     <p>
-      I am an assistant professor in critical zone hydrology in the <a href="https://evsc.as.virginia.edu/">Department of Environmental Sciences at the University of Virginia</a>. I was previously a postdoctoral researcher in the <a href="https://warnercnr.colostate.edu/ess/">Department of Ecosystem Science and Sustainability</a> at the <a href="https://www.colostate.edu/">Colorado State University</a>.
+      I am an assistant professor in critical zone hydrology in the <a href="https://evsc.as.virginia.edu/">Department of Environmental Sciences at the University of Virginia.</a> I was previously a postdoctoral researcher in the Department of Ecosystem Science and Sustainability at Colorado State University.
     </p>
     <p>
       My research interest lies in the sustainable management of our water resources by exploring the interactions between hydrological and biogeochemical processes across different scales. Topics of particular interest are: modelling groundwater-surface water interactions, ecohydrological modelling across scales, contaminant fate in watersheds.

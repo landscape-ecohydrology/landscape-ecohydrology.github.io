@@ -3,6 +3,7 @@ layout: page
 title: The Landscape Ecohydrology Group
 description: Research website for Frederick Cheng at the University of Virginia
 no_link_title: false
+hide_title: true
 hide_description: true
 no_excerpt: false
 hide_image: false
@@ -12,15 +13,15 @@ cover: true
 <style>
 .home-hero {
   position: relative;
-  min-height: 330px;
-  margin: 1.5rem 0 2.5rem 0;
+  min-height: 360px;
+  margin: 1.5rem -2.5rem 2.5rem -2.5rem;
   padding: 3rem;
   display: flex;
   align-items: flex-end;
   background-image:
     linear-gradient(
-      rgba(0, 0, 0, 0.25),
-      rgba(0, 0, 0, 0.70)
+      rgba(0, 0, 0, 0.10),
+      rgba(0, 0, 0, 0.55)
     ),
     url("/assets/img/blog/banner.jpg");
   background-size: cover;
@@ -29,20 +30,15 @@ cover: true
 }
 
 .home-hero-content {
-  max-width: 760px;
-}
-
-.home-hero h2 {
-  color: white;
-  margin-bottom: 0.75rem;
-  font-size: 2.2rem;
+  max-width: 720px;
 }
 
 .home-hero p {
   color: white;
-  font-size: 1.05rem;
+  font-size: 1.15rem;
   line-height: 1.6;
   margin-bottom: 0;
+  font-weight: 600;
 }
 
 .home-intro {
@@ -87,11 +83,13 @@ cover: true
 @media screen and (max-width: 650px) {
   .home-hero {
     min-height: 260px;
+    margin-left: 0;
+    margin-right: 0;
     padding: 1.5rem;
   }
 
-  .home-hero h2 {
-    font-size: 1.7rem;
+  .home-hero p {
+    font-size: 1rem;
   }
 
   .home-links a {
@@ -103,9 +101,8 @@ cover: true
 
 <div class="home-hero">
   <div class="home-hero-content">
-    <h2>The Landscape Ecohydrology Group at UVA</h2>
     <p>
-      We study how hydrology and biogeochemistry interact across wetlands, watersheds, and other terrestrial-aquatic interfaces.
+      Linking hydrology, biogeochemistry, and ecosystem function across wetlands, watersheds, and terrestrial-aquatic interfaces.
     </p>
   </div>
 </div>
